@@ -1,0 +1,64 @@
+﻿CustomID "Port"
+DefaultFont Verdana,8
+Digest 393d935554c1e5fe54bb4707b434e138
+Extends
+{
+	CustomID ""
+	LanguageID 0x0809
+}
+LanguageID 0x0416
+namespace NLocalize
+{
+	Include HPMLocalizeCommonHelpers.ir
+	Include HPMLocalizeCommon.ir
+	Include HPMLocalizeShared.ir
+	Include HPMLocalizeHolidays.ir
+
+	namespace NAOCC
+	{
+		Include AOCCLocalizeCommon.ir
+	}
+	namespace NAOChart
+	{
+		Include AOChartLocalizeCommon.ir
+	}
+	namespace NAOQT
+	{
+		namespace NInterop
+		{
+			Include AOQTInteropLocalizeCommon.ir
+		}
+		namespace NInterface
+		{
+			Include AOQTInterfaceLocalizeCommon.ir
+		}
+		namespace NChart
+		{
+			Include AOQTChartLocalizeCommon.ir
+		}
+	}
+	namespace NClient
+	{
+		Include HPMLocalizeClientCommon.ir
+		Include HPMLocalizeClientLoggedInCommon.ir
+		namespace NLogin
+		{
+			Include HPMLocalizeClientLoginCommon.ir
+			namespace NGui
+			{
+				Include HPMLocalizeClientLoginGUI.ir
+			}
+		}
+
+		namespace NGui
+		{
+			Include HPMLocalizeClientLoggedInGUI.ir
+		}
+	}
+	namespace NServer
+	{
+		Include HPMLocalizeServerCommon.ir
+		Include HPMLocalizeServerDatabase.ir
+		Include HPMLocalizeServerServer.ir
+	}
+}

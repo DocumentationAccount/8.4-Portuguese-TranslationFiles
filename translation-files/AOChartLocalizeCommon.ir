@@ -1,0 +1,599 @@
+﻿namespace NShared
+{
+	None "None"
+	{
+		// db4770d8
+		:00_Current "None"
+	}
+}
+
+namespace NType
+{
+	Area "Area"
+	{
+		// 5c5ee38c
+		:00_Current "Area"
+	}
+	Bar "Bar"
+	{
+		// 7729abe8
+		:00_Current "Bar"
+	}
+	Gauge "Gauge"
+	{
+		// e89edadc
+		:00_Current "Gauge"
+	}
+	ItemView "Item view"
+	{
+		// 6e0b04dd
+		:00_Current "Item view"
+	}
+	Line "Line"
+	{
+		// 5c64c69b
+		:00_Current "Line"
+	}
+	Pie "Pie"
+	{
+		// 7729e871
+		:00_Current "Pie"
+	}
+	Scatter "Scatter"
+	{
+		// 2ac3b049
+		:00_Current "Scatter"
+	}
+	StraightTable "Straight table"
+	{
+		// a6cd3cc1
+		:00_Current "Straight table"
+	}
+}
+
+namespace NThemes
+{
+	Amber "Amber"
+	{
+		// c0a1fe1e
+		:00_Current "Amber"
+	}
+	Autumn "Autumn"
+	{
+		// d57ca891
+		:00_Current "Autumn"
+	}
+	Blue "Blue"
+	{
+		// b84382bf
+		:00_Current "Blue"
+	}
+	Camo "Camo"
+	{
+		// b843df57
+		:00_Current "Camo"
+	}
+	Chilly "Chilly"
+	{
+		// d9358cbc
+		:00_Current "Chilly"
+	}
+	Coral "Coral"
+	{
+		// c0c78b68
+		:00_Current "Coral"
+	}
+	Crayons "Crayons"
+	{
+		// 16b12336
+		:00_Current "Crayons"
+	}
+	Custom "Custom\t{0}"
+	{
+		// da266972
+		// 0 text - Theme name
+		:00_Current "Custom\t{0}"
+	}
+	Grape "Grape"
+	{
+		// c1114c26
+		:00_Current "Grape"
+	}
+	Green "Green"
+	{
+		// c1115bc8
+		:00_Current "Green"
+	}
+	Red "Red"
+	{
+		// ee4fe232
+		:00_Current "Red"
+	}
+	Shoreline "Shoreline"
+	{
+		// b9609460
+		:00_Current "Shoreline"
+	}
+	Vintage "Vintage"
+	{
+		// b92d7c05
+		:00_Current "Vintage"
+	}
+}
+
+namespace NLegend
+{
+	LegendVisible "Show legend"
+
+	{
+		// 6c02749d
+		:00_Current "Show legend"
+	}
+}
+
+namespace NLabels
+{
+	LabelName "Name labels"
+	{
+		// 5ee400a5
+		:00_Current "Name labels"
+	}
+	LabelNameAndPercentage "Name and percentage labels"
+	{
+		// 0fd08b56
+		:00_Current "Name and percentage labels"
+	}
+	LabelNameAndValue "Name and value labels"
+	{
+		// 16e52395
+		:00_Current "Name and value labels"
+	}
+	LabelNotVisible "Labels not visible"
+	{
+		// e6688843
+		:00_Current "Labels not visible"
+	}
+	LabelPercentage "Percentage labels"
+	{
+		// 682992c2
+		:00_Current "Percentage labels"
+	}
+	LabelValue "Value labels"
+	{
+		// 3bf4d781
+		:00_Current "Value labels"
+	}
+}
+
+namespace NOrientation
+{
+	Horizontal "Horizontal bars"
+	{
+		// 4a6b2dc7
+		:00_Current "Horizontal bars"
+	}
+	Vertical "Vertical bars"
+	{
+		// ea29ed77
+		:00_Current "Vertical bars"
+	}
+}
+
+namespace NGrouping
+{
+	None "Group none"
+	{
+		// 191652ec
+		:00_Current "Group none"
+	}
+	Percentage "Group percentage"
+	{
+		// b5a83b5a
+		:00_Current "Group percentage"
+	}
+	SideBySide "Group side by side"
+	{
+		// f12510a1
+		:00_Current "Group side by side"
+	}
+	Stack "Group stacked"
+	{
+		// 3c3db1b2
+		:00_Current "Group stacked"
+	}
+}
+
+namespace NLayouts
+{
+	CenterLane "Center lane \t30 40 30"
+	{
+		// 3c5fa363
+		:00_Current "Center lane \t30 40 30"
+	}
+	FourColumns "Four columns \t25 25 25 25"
+	{
+		// 99c9c19f
+		:00_Current "Four columns \t25 25 25 25"
+	}
+	Highway "Highway \t20 30 30 20"
+	{
+		// 0f3d2b53
+		:00_Current "Highway \t20 30 30 20"
+	}
+	OneColumn "One column \t100"
+	{
+		// af177452
+		:00_Current "One column \t100"
+	}
+	Sidewalk "Sidewalk \t40 60"
+	{
+		// 1680f6b6
+		:00_Current "Sidewalk \t40 60"
+	}
+	ThreeColumns "Three columns \t33 33 33"
+	{
+		// 10737c3b
+		:00_Current "Three columns \t33 33 33"
+	}
+	TwoColumns "Two columns \t50 50"
+	{
+		// f92d1e7d
+		:00_Current "Two columns \t50 50"
+	}
+}
+
+namespace NTextSizes
+{
+	Large	"Large"
+	{
+		// 433177cf
+		:00_Current "Large"
+	}
+	Medium	"Medium"
+	{
+		// abf65a05
+		:00_Current "Medium"
+	}
+	Small	"Small"
+	{
+		// 43b6703d
+		:00_Current "Small"
+	}
+}
+
+namespace NImageSizes
+{
+	Large "Large{0}"
+	{
+		// 6914f44d
+		// 0 text - (Recommended) on active value
+		:00_Current "Large{0}"
+	}
+	Medium "Medium{0}"
+	{
+		// 8e496643
+		// 0 text - (Recommended) on active value
+		:00_Current "Medium{0}"
+	}
+	Small "Small{0}"
+	{
+		// 6999ecbb
+		// 0 text - (Recommended) on active value
+		:00_Current "Small{0}"
+	}
+}
+
+namespace NExports
+{
+	CopyToClipboard	"Copy to clipboard"
+	{
+		// 82aaa594
+		:00_Current "Copy to clipboard"
+	}
+	ExportChartAsPDF "Save this chart as a PDF"
+	{
+		// 78446928
+		:00_Current "Save this chart as a PDF"
+	}
+	ExportChartAsPNG "Save this chart as a PNG image"
+	{
+		// 78446a73
+		:00_Current "Save this chart as a PNG image"
+	}
+	ExportChartAsResultSet "Save this chart as a ResultSet registry (debug)"
+	{
+		// 43899a99
+		:00_Current "Save this chart as a ResultSet registry (debug)"
+	}
+	ExportChartAsXLSX "Save this chart as a spreadsheet (.xlsx)"
+	{
+		// 80d6153d
+		:00_Current "Save this chart as a spreadsheet (.xlsx)"
+	}
+	ExportToPDF "Save to PDF..."
+	{
+		// d4025805
+		:00_Current "Save to PDF..."
+	}
+	ExportToPDFFilter "PDF {0}"
+	{
+		// 7e39e48b
+		// 0 text - Filter pattern
+		:00_Current "PDF {0}"
+	}
+	ExportToPNG "Save as PNG..."
+	{
+		// d4025950
+		:00_Current "Save as PNG..."
+	}
+	ExportToPNGFilter "PNG {0}"
+	{
+		// 05c67216
+		// 0 text - Filter pattern
+		:00_Current "PNG {0}"
+	}
+	ExportToResultSet "Save as ResultSet..."
+	{
+		// d1887b36
+		:00_Current "Save as ResultSet..."
+	}
+	ExportToResultSetFilter "ir {0}"
+	{
+		// fa73e87c
+		// 0 text - Filter pattern
+		:00_Current "ir {0}"
+	}
+	ExportToXLSX "Save as spreadsheet (.xlsx)..."
+	{
+		// 5451dfba
+		:00_Current "Save as spreadsheet (.xlsx)..."
+	}
+	ExportToXLSXFilter "xlsx {0}"
+	{
+		// 20bfa000
+		// 0 text - Filter pattern
+		:00_Current "xlsx {0}"
+	}
+	ImageSize "Image size"
+	{
+		// 906a2204
+		:00_Current "Image size"
+	}
+	Recommended " (Recommended)"
+	{
+		// d2992b49
+		:00_Current " (Recommended)"
+	}
+}
+
+namespace NComputationEngine
+{
+	Value "Value"
+	{
+		// 3ad832f7
+		:00_Current "Value"
+	}
+	Values "Values"
+	{
+		// 95de924a
+		:00_Current "Values"
+	}
+}
+
+namespace NValidation
+{
+	AReportUsedByThisChartHasBeenDeleted "A report used by this chart has been deleted"
+	{
+		// 9ac3c57c
+		:00_Current "A report used by this chart has been deleted"
+	}
+	AddAtLeastOneFilter "Add at least one filter"
+	{
+		// c844b75b
+		:00_Current "Add at least one filter"
+	}
+	AddAtleastOneDimension "Add at least one dimension"
+	{
+		// 1334ad3b
+		:00_Current "Add at least one dimension"
+	}
+	AddAtleastOneMeasure "Add at least one measure"
+	{
+		// 4a850c27
+		:00_Current "Add at least one measure"
+	}
+	AddAtleastOneMeasureLine "Add at least one measure for the lines"
+	{
+		// e11841af
+		:00_Current "Add at least one measure for the lines"
+	}
+	AddDimensionsForDataSegments "Add dimensions for data segments"
+	{
+		// 4b8765c5
+		:00_Current "Add dimensions for data segments"
+	}
+	AddDimensionsOrMeasures "Add at least one dimension and two measures"
+	{
+		// 1b245304
+		:00_Current "Add at least one dimension and two measures"
+	}
+	AddDimensionsTable "Add dimensions to create rows"
+	{
+		// 5b30fd66
+		:00_Current "Add dimensions to create rows"
+	}
+	AddMeasuresTable "Add measures to create columns"
+	{
+		// 8c064952
+		:00_Current "Add measures to create columns"
+	}
+	AddMeasuresXY "Add measures for X and Y"
+	{
+		// dd32b6fb
+		:00_Current "Add measures for X and Y"
+	}
+	AddOneMeasureBar "Add a measure for bar heights"
+	{
+		// a387e6ce
+		:00_Current "Add a measure for bar heights"
+	}
+	Area "Area"
+	{
+		// d7b3def5
+		:00_Current "Area"
+	}
+	Bar "Bar"
+	{
+		// 82a85e31
+		:00_Current "Bar"
+	}
+	ComputationInvalid "Computation invalid"
+	{
+		// d0abe7f6
+		:00_Current "Computation invalid"
+	}
+	ComputationNotReady "Computation not ready"
+	{
+		// caae92d5
+		:00_Current "Computation not ready"
+	}
+	EmptyResultSet "No data here. Try changing dimensions or measures."
+	{
+		// d6e30816
+		:00_Current "No data here. Try changing dimensions or measures."
+	}
+	Gauge "Gauge"
+	{
+		// ce934365
+		:00_Current "Gauge"
+	}
+	InvalidBounds "Set bounds to control colour"
+	{
+		// 8aac3d8e
+		:00_Current "Set bounds to control colour"
+	}
+	InvalidChartID "Invalid chart ID"
+	{
+		// 1b729602
+		:00_Current "Invalid chart ID"
+	}
+	ItemView "Item view"
+	{
+		// 38d18cc6
+		:00_Current "Item view"
+	}
+	ItemViewReportTooLarge "Item view report results in too many items"
+	{
+		// 3847247f
+		:00_Current "Item view report results in too many items"
+	}
+	Line "Line"
+	{
+		// d7b9c204
+		:00_Current "Line"
+	}
+	MaxThreeMeasures "Max three measures allowed (X, Y and Z)"
+	{
+		// a1ae3ddf
+		:00_Current "Max three measures allowed (X, Y and Z)"
+	}
+	MaxTwoDimensionsAllowed "Max two dimensions allowed"
+	{
+		// 5048e11d
+		:00_Current "Max two dimensions allowed"
+	}
+	MeasuresAllZero "All measured data is zero"
+	{
+		// e476ca9a
+		:00_Current "All measured data is zero"
+	}
+	NeedAtLeastOneDimension "Need at least one dimension"
+	{
+		// 366c248e
+		:00_Current "Need at least one dimension"
+	}
+	NoResultSet	"No result set"
+	{
+		// 748787e4
+		:00_Current "No result set"
+	}
+	PickNumericalMeasures "Pick numerical measures"
+	{
+		// 5b7f4c28
+		:00_Current "Pick numerical measures"
+	}
+	PickOneDimension "Pick one dimension"
+	{
+		// 8c8ad22b
+		:00_Current "Pick one dimension"
+	}
+	PickOneDimensionBar "Pick one dimension to create bars"
+	{
+		// 2b8a4c00
+		:00_Current "Pick one dimension to create bars"
+	}
+	PickOneMeasure "Pick one measure"
+	{
+		// 792d3517
+		:00_Current "Pick one measure"
+	}
+	PickOneTimeDimension "Pick one time dimension"
+	{
+		// 5877e67a
+		:00_Current "Pick one time dimension"
+	}
+	PickOneTimeDimensionLine "Pick one time dimension for the horizontal axis"
+	{
+		// 06c60d82
+		:00_Current "Pick one time dimension for the horizontal axis"
+	}
+	Pie "Pie"
+	{
+		// 82a89aba
+		:00_Current "Pie"
+	}
+	ResultSetTooLarge "The result set is too large. Apply a filter to dimensions."
+	{
+		// d04e21c4
+		:00_Current "The result set is too large. Apply a filter to dimensions."
+	}
+	Table "Table"
+	{
+		// cf7e31c4
+		:00_Current "Table"
+	}
+	UnknownChartType "Unknown chart type {0}"
+	{
+		// d75b8c20
+		// 0 number - Chart type enum
+		:00_Current "Unknown chart type {0}"
+	}
+	XY "XY"
+	{
+		// be2424ad
+		:00_Current "XY"
+	}
+}
+
+namespace NGauge
+{
+	GreenBelow NLocalize/NAOQT/NChart/NChartConfig/GreenBelow
+	{
+		// b89489a4
+		:00_Current "Turn green at"
+	}
+	RedWhenAbove NLocalize/NAOQT/NChart/NChartConfig/RedWhenAbove
+	{
+		// 305d0014
+		:00_Current "Turn red at"
+	}
+}
+
+namespace NTableServer
+{
+	Null "Null"
+	{
+		// 70f45aab
+		:00_Current "Null"
+	}
+}

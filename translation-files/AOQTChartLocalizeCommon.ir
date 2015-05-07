@@ -1,0 +1,412 @@
+﻿namespace NPresentationView
+namespace NChartConfig
+{
+	AvailablePages "Available pages"
+	{
+		// 616675ec
+		:00_Current "Available pages"
+	}
+	ChartRemove "Delete"
+	{
+		// bc898dfb
+		:00_Current "Delete"
+	}
+	ChartRename "Rename"
+	{
+		// bc89dda5
+		:00_Current "Rename"
+	}
+	Clone "Clone"
+	{
+		// effd912c
+		:00_Current "Clone"
+	}
+	CloneTo "Clone to"
+	{
+		// e5a6976f
+		:00_Current "Clone to"
+	}
+	CloneToPage "Clone to page..."
+	{
+		// fd203f8c
+		:00_Current "Clone to page..."
+	}
+	CloneToPageTitle "Clone to page"
+	{
+		// 72dd70ee
+		:00_Current "Clone to page"
+	}
+	Cumulative "Cumulative"
+	{
+		// 8ae7f4ba
+		:00_Current "Cumulative"
+	}
+	DetailedChartInfo "Detailed chart information..."
+	{
+		// 8202b135
+		:00_Current "Detailed chart information..."
+	}
+	DropDimensionsHere "Drop dimensions here"
+	{
+		// 3944962d
+		:00_Current "Drop dimensions here"
+	}
+	DropFiltersHere "Drop filters here"
+	{
+		// cce57a4d
+		:00_Current "Drop filters here"
+	}
+	DropMeasuresHere "Drop measures here"
+	{
+		// b047e5d9
+		:00_Current "Drop measures here"
+	}
+	EditChart "Edit chart"
+	{
+		// ae597b73
+		:00_Current "Edit chart"
+	}
+	EditChartMinimized "Edit chart minimised"
+	{
+		// c7c53679
+		:00_Current "Edit chart minimised"
+	}
+	EditItemView "Edit item view"
+	{
+		// 2d9c01ab
+		:00_Current "Edit item view"
+	}
+	EditItemViewMinimized "Edit item view minimised"
+	{
+		// fb8e3bb1
+		:00_Current "Edit item view minimised"
+	}
+	EnableIdealBurndown "Enable ideal burndown line"
+	{
+		// db723890
+		:00_Current "Enable ideal burndown line"
+	}
+	GreenBelow "Turn green at"
+	{
+		// 0e5b9f05
+		:00_Current "Turn green at"
+	}
+	NoOptionsAvailable "No options available"
+	{
+		// 8697e325
+		:00_Current "No options available"
+	}
+	Options "Options"
+	{
+		// 8b0dfd87
+		:00_Current "Options"
+	}
+	OverrideStartTime	"Override start time"
+	{
+		// 10096838
+		:00_Current "Override start time"
+	}
+	OverrideStartValue	"Override start value"
+	{
+		// 11563b66
+		:00_Current "Override start value"
+	}
+	OwnedByX "Created by {0}"
+	{
+		// f9573fab
+		// 0 text - user name of the user that 'owns' the chart
+		:00_Current "Created by {0}"
+	}
+	RedWhenAbove "Turn red at"
+	{
+		// 143ef1b5
+		:00_Current "Turn red at"
+	}
+	SelectColumns "Select columns"
+	{
+		// 5e6042fc
+		:00_Current "Select columns"
+	}
+	SetBoundsForRedYellowAndGreen "Set colour bounds"
+	{
+		// d09e4cb4
+		:00_Current "Set colour bounds"
+	}
+	SetIdealBurndown "Set ideal burndown"
+	{
+		// 57daee55
+		:00_Current "Set ideal burndown"
+	}
+	SetInitialValue	"Set start value to"
+	{
+		// 833ecbee
+		:00_Current "Set start value to"
+	}
+	SetTrafficLightBounds "Set traffic light bounds"
+	{
+		// 89aacf69
+		:00_Current "Set traffic light bounds"
+	}
+	ShowLabels "Show labels"
+	{
+		// 090867cf
+		:00_Current "Show labels"
+	}
+	StartAt "Start at time unit"
+	{
+		// c6f8c05e
+		:00_Current "Start at time unit"
+	}
+	TransferOwnership "Transfer ownership to me" 
+	{
+		// 76e52cbf
+		:00_Current "Transfer ownership to me"
+	}
+	UsePageTheme "Use page theme"
+	{
+		// d7529758
+		:00_Current "Use page theme"
+	}
+}
+
+namespace NChartWidget
+{
+	AreYouSureYouWantToDeleteThisChart "Are you sure you want to delete this chart?"
+	{
+		// 345a5414
+		:00_Current "Are you sure you want to delete this chart?"
+	}
+	Delete "Delete"
+	{
+		// fb0e807c
+		:00_Current "Delete"
+	}
+	Refresh "Refresh"
+	{
+		// 922832d8
+		:00_Current "Refresh"
+	}
+	UntitledChart "(Untitled Chart)"
+	{
+		// 95513ba4
+		:00_Current "(Untitled Chart)"
+	}
+	Updating "Updating..."
+	{
+		// e4dec745
+		:00_Current "Updating..."
+	}
+}
+
+namespace NErrorHandler
+{
+	DetailedMessage "Hansoft failed to render this chart. This problem may be resolved by changing the chart configuration.\n"\
+	                "\n"\
+	                "If the chart is configured as intended, please contact support@hansoft.com for further help.\n"\
+	                "\n"\
+	                "Detailed information:\n"\
+	                "\n"\
+	                "{0}\n"\
+	                "\n"\
+	                "Result set saved to {1}\n"\
+	                "Please attach this file when contacting support."
+	{
+		// 2399601c
+		// 0 text - Error text from application
+		// 1 text - Path to result set file
+		:00_Current "Hansoft failed to render this chart. This problem may be resolved by changing the chart configuration.\n"\
+		            "\n"\
+		            "If the chart is configured as intended, please contact support@hansoft.com for further help.\n"\
+		            "\n"\
+		            "Detailed information:\n"\
+		            "\n"\
+		            "{0}\n"\
+		            "\n"\
+		            "Result set saved to {1}\n"\
+		            "Please attach this file when contacting support."
+	}
+	DetailedTitle	"Detailed error information"
+	{
+		// 4bc2d6d9
+		:00_Current "Detailed error information"
+	}
+	RenderingFailed "Rendering failed"
+	{
+		// 5f41201e
+		:00_Current "Rendering failed"
+	}
+	SeeDetails "See details"
+	{
+		// 6ef8c1de
+		:00_Current "See details"
+	}
+}
+
+namespace NDashboard
+{
+	Chart "Chart"
+	{
+		// 60e6e26d
+		:00_Current "Chart"
+	}
+	Create "Create"
+	{
+		// 7e7a0eaf
+		:00_Current "Create"
+	}
+	CreateNewPage "Create new page"
+	{
+		// b44d4ab6
+		:00_Current "Create new page"
+	}
+	DeletePage "Delete"
+	{
+		// f8cbf00b
+		:00_Current "Delete"
+	}
+	Export "Export"
+	{
+		// 8397367d
+		:00_Current "Export"
+	}
+	HidePage "Hide"
+	{
+		// eb94f472
+		:00_Current "Hide"
+	}
+	ItemView "Item view"
+	{
+		// 2980be65
+		:00_Current "Item view"
+	}
+	Layout "Layout"
+	{
+		// 92500f19
+		:00_Current "Layout"
+	}
+	Name "Name"
+	{
+		// dc2bf2bc
+		:00_Current "Name"
+	}
+	OpenExistingPage "Open existing page"
+	{
+		// 7cf9afd5
+		:00_Current "Open existing page"
+	}
+	RefreshAll "Refresh all"
+	{
+		// 6e968fa3
+		:00_Current "Refresh all"
+	}
+	RenameExistingPage "Rename page"
+	{
+		// 211c7afb
+		:00_Current "Rename page"
+	}
+	RenamePage "Rename"
+	{
+		// c5a67a30
+		:00_Current "Rename"
+	}
+	Share "Share"
+	{
+		// 62086a6e
+		:00_Current "Share"
+	}
+	TextSize "Text size"
+	{
+		// fa7a61bb
+		:00_Current "Text size"
+	}
+	Theme "Theme"
+	{
+		// 621a934e
+		:00_Current "Theme"
+	}
+	Web "Web"
+	{
+		// 44bbaa39
+		:00_Current "Web"
+	}
+}
+
+namespace NDashboardDetails
+{
+	Calculation "Calculation"
+	{
+		// 466bf790
+		:00_Current "Calculation"
+	}
+	ChartID "Chart ID"
+	{
+		// ceb522e0
+		:00_Current "Chart ID"
+	}
+	CreatedBy "Created by"
+	{
+		// 976cd7b4
+		:00_Current "Created by"
+	}
+	CreatedOn "Created on"
+	{
+		// 976cd956
+		:00_Current "Created on"
+	}
+	Creator "Creator"
+	{
+		// e647cdd1
+		:00_Current "Creator"
+	}
+	DetailedChartInfo "Detailed chart information"
+	{
+		// d51895fb
+		:00_Current "Detailed chart information"
+	}
+	FirstSampledOn "First sampled on"
+	{
+		// f3955ecc
+		:00_Current "First sampled on"
+	}
+	HistorySampling "History sampling"
+	{
+		// 7d0cf58e
+		:00_Current "History sampling"
+	}
+	ID "ID"
+	{
+		// 3067e4ce
+		:00_Current "ID"
+	}
+	LastSampledOn "Last sampled on"
+	{
+		// 3917c598
+		:00_Current "Last sampled on"
+	}
+	LatestComputationTime "Latest computation time"
+	{
+		// e43fce70
+		:00_Current "Latest computation time"
+	}
+	LatestWaitTime "Latest wait time"
+	{
+		// 0cd98232
+		:00_Current "Latest wait time"
+	}
+	NumberOfSeconds "{0, fe0,fn2} s"
+	{
+		// b7fc82ce
+		// 0 decimal - Number of seconds
+		:00_Current "{0, fe0,fn2} s"
+	}
+	PageID "Page ID"
+	{
+		// 4ae4b12b
+		:00_Current "Page ID"
+	}
+	SeenBy "Seen by"
+	{
+		// 522b99e7
+		:00_Current "Seen by"
+	}
+}
