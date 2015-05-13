@@ -524,7 +524,7 @@
 		// 33fc5d44 - NLocalize/NClient/NGui/NGantt/NUndoRedo/NClasses/CalendarHasBeenChangedAndScheduleAdjusted
 		:00_Current "Calendar has been changed and schedule adjusted accordingly"
 	}
-	Cancel "Cancel"
+	Cancel "Cancelar"
 	{
 		// 5142818f
 
@@ -684,7 +684,7 @@
 		// 5c06187c - NLocalize/NClient/NGui/NGantt/NViewRender/NWall/ClickToSelect
 		:00_Current "Click to select"
 	}
-	Close "Close"
+	Close "Fechar"
 	{
 		// 7e9b773f
 
@@ -747,7 +747,7 @@
 		// 694a1646 - NLocalize/NClient/NGui/NGantt/NReports/NEditReport/NSelectColumns/ColumnName
 		:00_Current "Column name"
 	}
-	Comment "Comment"
+	Comment "Comentário"
 	{
 		// 9a2e503c
 
@@ -1172,7 +1172,7 @@
 		// 6c75d35a - NLocalize/NClient/NGui/NGantt/NQAWorkflowInfoPopup/DetailedAccessAndRestrictionRules
 		:00_Current "Detailed access and restriction rules"
 	}
-	DetailedDescription "Detailed description"
+	DetailedDescription "Descrição detalhada"
 	{
 		// fbad8949
 
@@ -1186,7 +1186,7 @@
 		// 781daede - NLocalize/NDatabaseFunctions/NDB/NGeneral/DetailedDescription
 		:00_Current "Detailed description"
 	}
-	DetailedDescription2 "Detailed description:"
+	DetailedDescription2 "Descrição detalhada:"
 	{
 		// 715eb29b
 
@@ -2370,7 +2370,7 @@
 		// 9ac0a6f8 - NLocalize/NDatabaseFunctions/NDB/NGeneral/LinkedToTaskItemBug
 		:00_Current "Linked to item"
 	}
-	LogOut "Sign out"
+	LogOut "Sair"
 	{
 		// 673a1ca3
 
@@ -2572,7 +2572,7 @@
 		// 212ed163 - NLocalize/NServer/NDatabase/NVersionControlContext/MovedToDeletedProjects
 		:00_Current "Moved to deleted projects"
 	}
-	MyPersonalOptionsCtrlO "My personal options..."
+	MyPersonalOptionsCtrlO "Minhas opções pessoais..."
 	{
 		// 13f6b623
 
@@ -2649,7 +2649,7 @@
 		// 8591e70e - NLocalize/NDatabaseFunctions/NewScheduledTask
 		:00_Current "New scheduled task"
 	}
-	No "No"
+	No "Não"
 	{
 		// 05c7e046
 
@@ -2791,7 +2791,7 @@
 		// 0eb714a8 - NLocalize/NClient/NGui/NResourcePeriodReport/NonprojectTime
 		:00_Current "Non-project time"
 	}
-	None "None"
+	None "Nenhum"
 	{
 		// 97411859
 
@@ -3156,7 +3156,7 @@
 		// 5a092e82 - NLocalize/NClient/NGui/NGantt/NFloatingSelection/PipelineKanbanOrWorkflow
 		:00_Current "Pipeline, Kanban or Workflow"
 	}
-	PipelinesKanbansAndWorkflows "Pipelines, Kanbans and Workflows"
+	PipelinesKanbansAndWorkflows "Pipelines, Kanbans e Workflows"
 	{
 		// 7a23d5d1
 
@@ -3324,7 +3324,7 @@
 		// 5fedfc12 - NLocalize/NClient/NGui/NProjects/ProjectName
 		:00_Current "Project name"
 	}
-	Projects "Projects"
+	Projects "Projetos"
 	{
 		// cab2b6d3
 
@@ -3709,7 +3709,7 @@
 		// bf929137 - NLocalize/NClient/NGui/NGantt/NReport/NMailTo/Saturday
 		:00_Current "Saturday"
 	}
-	Save "Save"
+	Save "Salvar"
 	{
 		// 97439bb8
 
@@ -3832,7 +3832,7 @@
 		// 2f4acbfc - NLocalize/NClient/NGui/NGantt/NReports/NEditReport/NEditCondition/SelectCondition2
 		:00_Current "Select condition:"
 	}
-	SelectNoStatus "None"
+	SelectNoStatus "Nenhum"
 	{
 		// 966d1eca
 
@@ -4063,7 +4063,7 @@
 		// bbdd9c8e - NLocalize/NClient/NGui/NGantt/NQA/NWorkflow/NEditPipelineStatus/Step
 		:00_Current "Step"
 	}
-	StepsToReproduce "Steps to reproduce"
+	StepsToReproduce "Passos para reproduzir"
 	{
 		// 88925304
 
@@ -4651,7 +4651,7 @@
 		// 2f9e90fd - NLocalize/NClient/NGui/NGantt/NPrintPage/UserStories
 		:00_Current "User stories"
 	}
-	UserStory "User story"
+	UserStory "Histórias de usuário"
 	{
 		// 63600509
 
@@ -4666,7 +4666,7 @@
 		// cc573c5e - NLocalize/NDatabaseFunctions/NDB/NGeneral/UserStory
 		:00_Current "User story"
 	}
-	UserStory2 "User story:"
+	UserStory2 "Histórias de usuário:"
 	{
 		// cf60a65b
 
@@ -4771,7 +4771,7 @@
 		// fd8147e9 - NLocalize/NClient/NGui/NGantt/NDataImport/NProjectHistory/Work
 		:00_Current "work"
 	}
-	WorkRemaining "Work remaining"
+	WorkRemaining "trabalho restante"
 	{
 		// e401bbe6
 
@@ -4785,7 +4785,7 @@
 		// d9be95bb - NLocalize/NDatabaseFunctions/NDB/NGeneral/WorkRemaining
 		:00_Current "Work remaining"
 	}
-	WorkX " (work {0}%)"
+	WorkX " (trabalho {0}%)"
 	{
 		// 80071224
 		// 0 integer - Allocation percent
@@ -5080,7 +5080,7 @@
 		// 97a10870 - NLocalize/NClient/NGui/NGantt/NCustomize/NProjectColumns/NCreateColumn/NCreateItem/YellowCircle
 		:00_Current "Yellow circle"
 	}
-	Yes "Yes"
+	Yes "Sim"
 	{
 		// bec416fa
 

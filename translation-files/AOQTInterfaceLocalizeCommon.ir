@@ -28,7 +28,7 @@ namespace NFloatingSelection
 
 namespace NEditableLabel
 {
-	Save "Save"
+	Save "Salvar"
 	{
 		// dde4423b
 		:00_Current "Save"

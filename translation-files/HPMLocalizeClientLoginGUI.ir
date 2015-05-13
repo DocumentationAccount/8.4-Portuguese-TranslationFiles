@@ -558,7 +558,7 @@ namespace NClientMain
 		// d9e8d635
 		:00_Current "Authentication timed out."
 	}
-	Cancel "Cancel"
+	Cancel "Cancelar"
 	{
 		// af833950
 		:00_Current "Cancel"
@@ -830,7 +830,7 @@ namespace NClientMain
 		// 2c2a56de
 		:00_Current "Log in cancelled."
 	}
-	LogOut "Sign out"
+	LogOut "Sair"
 	{
 		// c57ad464
 		:00_Current "Sign out"
@@ -845,7 +845,7 @@ namespace NClientMain
 		// 36d248a8
 		:00_Current "Logging in..."
 	}
-	No "No"
+	No "Não"
 	{
 		// b908df87
 		:00_Current "No"
@@ -1067,7 +1067,7 @@ namespace NClientMain
 		// a3260bfd
 		:00_Current "Waiting..."
 	}
-	Yes "Yes"
+	Yes "Sim"
 	{
 		// da24fe5b
 		:00_Current "Yes"

@@ -317,7 +317,7 @@ namespace NRightClickMenus
 		// e34307aa
 		:00_Current "Flag as user story"
 	}
-	GoToInProjectViewCtrlG "Go to in project view"
+	GoToInProjectViewCtrlG "Ir para visão do projeto"
 	{
 		// c9fa87d2
 		:00_Current "Go to in project view"

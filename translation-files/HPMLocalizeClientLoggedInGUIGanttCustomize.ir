@@ -339,7 +339,7 @@ namespace NDialog
 		// fd4b1dee
 		:00_Current "Customise project"
 	}
-	ExtraColumns "Columns"
+	ExtraColumns "Colunas"
 	{
 		// a44285c0
 		:00_Current "Columns"
@@ -798,7 +798,7 @@ namespace NProjectColumns
 			// ecb835dd
 			:00_Current "People"
 		}
-		Sort "Sort"
+		Sort "Ordenar"
 		{
 			// 694d270a
 			:00_Current "Sort"

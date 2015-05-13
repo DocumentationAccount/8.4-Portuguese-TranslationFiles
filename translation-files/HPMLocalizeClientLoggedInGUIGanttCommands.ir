@@ -1,4 +1,4 @@
-﻿CloseFind "Close find"
+﻿CloseFind "Fechar procurar"
 {
 	// 82e1d674
 	:00_Current "Close find"
@@ -86,12 +86,12 @@ namespace NConfiguration
 		// dcb71fb4
 		:00_Current "Status"
 	}
-	CreateAndShareReports "Create and share Reports..."
+	CreateAndShareReports "Criar e compartilhar Relatórios..."
 	{
 		// 326ea43b
 		:00_Current "Create and share Reports..."
 	}
-	CreatesANewAgileXBelowThisX "Creates a new item below this item"
+	CreatesANewAgileXBelowThisX "Criar um novo item abaixo deste item"
 	{
 		// c7959a07
 		:00_Current "Creates a new item below this item"
@@ -101,7 +101,7 @@ namespace NConfiguration
 		// c67d3165
 		:00_Current "Delete"
 	}
-	DeletesSelectedDel "Deletes selected (Del)"
+	DeletesSelectedDel "Apagar itens selecionados (Del)"
 	{
 		// f30aa9d6
 		:00_Current "Deletes selected (Del)"
@@ -131,22 +131,22 @@ namespace NConfiguration
 		// d4765913
 		:00_Current "Find"
 	}
-	FindActivitiesCtrlF "Find activities"
+	FindActivitiesCtrlF "Encontrar atividades"
 	{
 		// d61b93c3
 		:00_Current "Find activities"
 	}
-	FindActivitiesInTheGanttViewCtrlF "Find activities in the gantt view"
+	FindActivitiesInTheGanttViewCtrlF "Encontrar atividades no diagrama Gantt"
 	{
 		// 8bf8f094
 		:00_Current "Find activities in the gantt view"
 	}
-	FindItemsCtrlF "Find items"
+	FindItemsCtrlF "Encontrar itens"
 	{
 		// 7e05b7d0
 		:00_Current "Find items"
 	}
-	FindResourcesCtrlF "Find users"
+	FindResourcesCtrlF "Encontrar usuários"
 	{
 		// ffaf2869
 		:00_Current "Find users"
@@ -156,7 +156,7 @@ namespace NConfiguration
 		// cb710e53
 		:00_Current "Finish"
 	}
-	GoToInProjectView "Go to in project view"
+	GoToInProjectView "Ir para visão do projeto"
 	{
 		// 383a5634
 		:00_Current "Go to in project view"
@@ -166,7 +166,7 @@ namespace NConfiguration
 		// a9afb67f
 		:00_Current "ID"
 	}
-	Insert "   Insert:"
+	Insert "   Inserir:"
 	{
 		// d2cdaf87
 		:00_Current "   Insert:"
@@ -182,30 +182,30 @@ namespace NConfiguration
 		// 0 text - Default name of release type, backlog item type or custom name
 		:00_Current "{0,cc}"
 	}
-	InsertsANewTaskCtrlN "Inserts a new task"
+	InsertsANewTaskCtrlN "Inserir uma nova tarefa"
 	{
 		// a2a385db
 		:00_Current "Inserts a new task"
 	}
-	InsertsANewXCtrlU "Inserts a new {0}"
+	InsertsANewXCtrlU "Inserir uma nova {0}"
 	{
 		// c3a66bc7
 		// 0 text - Default name of backlog item type or custom name
 		:00_Current "Inserts a new {0}"
 	}
-	InsertsAX "Inserts a {0}"
+	InsertsAX "Inserir um {0}"
 	{
 		// 5bef4813
 		// 0 text - Default name of sprint type or custom name
 		:00_Current "Inserts a {0}"
 	}
-	InsertsAXCtrlM "Inserts a {0}"
+	InsertsAXCtrlM "Inserir um {0}"
 	{
 		// 4e0c44d5
 		// 0 text - Default name of release/milestone type or custom name
 		:00_Current "Inserts a {0}"
 	}
-	InsertsAXIntoXCtrlN "Inserts a {0} into {1}"
+	InsertsAXIntoXCtrlN "Inserir um {0} em {1}"
 	{
 		// c09f6a88
 		// 0 text - Default name of backlog item type or custom name
@@ -222,12 +222,12 @@ namespace NConfiguration
 		// d47a49c5
 		:00_Current "More.."
 	}
-	MoreActions "More actions"
+	MoreActions "Mais ações"
 	{
 		// d67db276
 		:00_Current "More actions"
 	}
-	MyPersonalWallMode "My personal board mode"
+	MyPersonalWallMode "Modo Minha tela pessoal"
 	{
 		// fac438d1
 		:00_Current "My personal board mode"
@@ -237,12 +237,12 @@ namespace NConfiguration
 		// 6e469c31
 		:00_Current "Predecessor"
 	}
-	Print "Print"
+	Print "Imprimir"
 	{
 		// 63fb4c5f
 		:00_Current "Print"
 	}
-	PrintThisViewCtrlP "Print this view"
+	PrintThisViewCtrlP "Imprimir esta vizualização"
 	{
 		// c5bae077
 		:00_Current "Print this view"
@@ -283,7 +283,7 @@ namespace NConfiguration
 		// f4ae77da
 		:00_Current "Report time on"
 	}
-	ReportTimeOnSelectedTask "Report time on selected task"
+	ReportTimeOnSelectedTask "Relatar tempo na tarefa selecionada"
 	{
 		// 85c2d756
 		:00_Current "Report time on selected task"
@@ -295,7 +295,7 @@ namespace NConfiguration
 		// 1 text - User name
 		:00_Current "Report '{0}' is shared to you by {1}"
 	}
-	Reports "   Reports:"
+	Reports "   Relatórios:"
 	{
 		// cc208841
 		:00_Current "   Reports:"
@@ -311,17 +311,17 @@ namespace NConfiguration
 		// 4e4322db
 		:00_Current "User name"
 	}
-	Resources "Assigned to"
+	Resources "Designado para"
 	{
 		// 3d874ced
 		:00_Current "Assigned to"
 	}
-	Return "Return"
+	Return "Voltar"
 	{
 		// e72a1112
 		:00_Current "Return"
 	}
-	Show "Show"
+	Show "Mostrar"
 	{
 		// d47d75f3
 		:00_Current "Show"
@@ -333,7 +333,7 @@ namespace NConfiguration
 		// 1 text - Default name of burndown chart type or custom name
 		:00_Current "Show {0} {1}"
 	}
-	ShowsXInProjectView "Shows {0} in project view"
+	ShowsXInProjectView "Mostra {0} na visão de projeto"
 	{
 		// 3266e347
 		// 0 text - Default name of burndown chart type or custom name
@@ -389,7 +389,7 @@ namespace NConfiguration
 		// 645e9a8f
 		:00_Current "value"
 	}
-	WallModeX "board mode: {0}"
+	WallModeX "modo da tela: {0}"
 	{
 		// ae41961f
 		// 0 text - Name of wall mode

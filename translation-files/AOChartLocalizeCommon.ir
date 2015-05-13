@@ -1,6 +1,6 @@
 ﻿namespace NShared
 {
-	None "None"
+	None "Nenhum"
 	{
 		// db4770d8
 		:00_Current "None"

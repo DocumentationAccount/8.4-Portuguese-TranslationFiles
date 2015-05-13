@@ -1,51 +1,51 @@
 ﻿namespace NDialogButtonBox
 {
-	Abort "Abort"
+	Abort "Abortar"
 	{
 		// 46ce31ef
 		:00_Current "Abort"
 	}
-	Apply "Apply"
+	Apply "Aplicar"
 	{
 		// 46d5e2bd
 		:00_Current "Apply"
 	}
-	Cancel "Cancel"
+	Cancel "Cancelar"
 	{
 		// 252bdadd
 		:00_Current "Cancel"
 	}
-	Close "Close"
+	Close "Fechar"
 	{
 		// 46f7decd
 		:00_Current "Close"
 	}
-	CloseWithoutSaving "Close without Saving"
+	CloseWithoutSaving "Fechar sem Salvar"
 	{
 		// 0a522b29
 		:00_Current "Close without Saving"
 	}
-	Discard "Discard"
+	Discard "Apagar"
 	{
 		// 2aa522f1
 		:00_Current "Discard"
 	}
-	DontSave "Don't Save"
+	DontSave "Não Salvar"
 	{
 		// 42a8d01b
 		:00_Current "Don't Save"
 	}
-	Ignore "Ignore"
+	Ignore "Ignorar"
 	{
 		// 3397965b
 		:00_Current "Ignore"
 	}
-	No "No"
+	No "Não"
 	{
 		// 188cc294
 		:00_Current "No"
 	}
-	NoToAll "No to All"
+	NoToAll "Não a Todos"
 	{
 		// 383f8a50
 		:00_Current "No to All"
@@ -55,7 +55,7 @@
 		// 188cc291
 		:00_Current "OK"
 	}
-	Open "Open"
+	Open "Abrir"
 	{
 		// 6ec855a9
 		:00_Current "Open"
@@ -65,32 +65,32 @@
 		// 480386fa
 		:00_Current "Reset"
 	}
-	RestoreDefaults "Restore Defaults"
+	RestoreDefaults "Restaurar Padrões"
 	{
 		// 45ae2c13
 		:00_Current "Restore Defaults"
 	}
-	Retry "Retry"
+	Retry "Tentar novamente"
 	{
 		// 48038ced
 		:00_Current "Retry"
 	}
-	Save "Save"
+	Save "Salvar"
 	{
 		// 6eca4986
 		:00_Current "Save"
 	}
-	SaveAll "Save All"
+	SaveAll "Salvar Todos"
 	{
 		// 9adc469f
 		:00_Current "Save All"
 	}
-	Yes "Yes"
+	Yes "Sim"
 	{
 		// 2a254308
 		:00_Current "Yes"
 	}
-	YesToAll "Yes to All"
+	YesToAll "Sim para Todos"
 	{
 		// abbe7344
 		:00_Current "Yes to All"

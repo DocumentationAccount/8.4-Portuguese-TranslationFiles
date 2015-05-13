@@ -76,7 +76,7 @@ namespace NManageLocalizations
 		// a178f186
 		:00_Current "Close"
 	}
-	Comment "Comment"
+	Comment "Comentário"
 	{
 		// ea537843
 		:00_Current "Comment"
@@ -804,7 +804,7 @@ namespace NActionHistory
 		// 46747b7d
 		:00_Current "Combines working days"
 	}
-	Comment "Comment"
+	Comment "Comentário"
 	{
 		// fa37b68e
 		:00_Current "Comment"
@@ -1084,7 +1084,7 @@ namespace NActionHistory
 		// b2ff706b
 		:00_Current "Estimated days"
 	}
-	EstimatedIdealHours "Estimated hours"
+	EstimatedIdealHours "Horas Estimadas"
 	{
 		// 133d7c6b
 		:00_Current "Estimated hours"
@@ -1287,7 +1287,7 @@ namespace NActionHistory
 		// 1 text - Default name of backlog type or custom name
 		:00_Current "Moved out of {0} or to {1}"
 	}
-	No "No"
+	No "Não"
 	{
 		// 04118b58
 		:00_Current "No"
@@ -2488,7 +2488,7 @@ namespace NActionHistory
 		// 1 text - Description of when status change occurred
 		:00_Current "{0} {1}"
 	}
-	Yes "Yes"
+	Yes "Sim"
 	{
 		// 8643244c
 		:00_Current "Yes"
@@ -2513,12 +2513,12 @@ namespace NActivateGhostResources
 		// 1c1ed4f4
 		:00_Current "Can be QA"
 	}
-	CanBeQAAccountNo "No"
+	CanBeQAAccountNo "Não"
 	{
 		// 9f27ec71
 		:00_Current "No"
 	}
-	CanBeQAAccountYes "Yes"
+	CanBeQAAccountYes "Sim"
 	{
 		// 8425a885
 		:00_Current "Yes"
@@ -3500,7 +3500,7 @@ namespace NColumns
 		// 34d8313c
 		:00_Current "Estimated days"
 	}
-	EstimatedIdealHours "Estimated hours"
+	EstimatedIdealHours "Horas Estimadas"
 	{
 		// d02e575c
 		:00_Current "Estimated hours"
@@ -3590,7 +3590,7 @@ namespace NColumns
 		// e3c32a10
 		:00_Current "Status"
 	}
-	StepsToReproduce "Steps to reproduce"
+	StepsToReproduce "Passos para reproduzir"
 	{
 		// 6c514e27
 		:00_Current "Steps to reproduce"
@@ -3809,12 +3809,12 @@ namespace NConfigPipelineTool
 		// 23816bf6
 		:00_Current "Pipeline / Kanban"
 	}
-	PipelinesAndKanbans "Pipelines and Kanbans:"
+	PipelinesAndKanbans "Pipelines e Kanbans:"
 	{
 		// cbc8d48f
 		:00_Current "Pipelines and Kanbans:"
 	}
-	PipelinesFindPipelinesKanbansWorkflows "Find pipelines, kanbans and workflows"
+	PipelinesFindPipelinesKanbansWorkflows "Find pipelines, kanbans e workflows"
 	{
 		// 73ae9954
 		:00_Current "Find pipelines, kanbans and workflows"
@@ -4939,7 +4939,7 @@ namespace NFilterWindow
 		// 38cdfaf5
 		:00_Current "By these keywords:"
 	}
-	CanStartNow "Can start now"
+	CanStartNow "Pode iniciar agora"
 	{
 		// 1e3a8cdd
 		:00_Current "Can start now"
@@ -5209,7 +5209,7 @@ namespace NFilterWindow
 		// 0 text - Default name of release type or custom name
 		:00_Current "{0,cc}"
 	}
-	Reports "Reports:"
+	Reports "Relatórios:"
 	{
 		// 777b6b38
 		:00_Current "Reports:"
@@ -5309,7 +5309,7 @@ namespace NFilterWindow
 		// 7316a301
 		:00_Current "Scheduled - Critical path"
 	}
-	Select "Select"
+	Select "Selecionar"
 	{
 		// 24f970c9
 		:00_Current "Select"
@@ -7050,7 +7050,7 @@ namespace NManageGhostResources
 		// 1d15b896
 		:00_Current "Global list of ghost users:"
 	}
-	ManageGhostResources "Manage ghost users"
+	ManageGhostResources "Configurar usuários fantasmas"
 	{
 		// de9e231d
 		:00_Current "Manage ghost users"
@@ -7449,7 +7449,7 @@ namespace NMessageSettings
 		// ef8656f0
 		:00_Current "Send extra copies of the automatically generated message to other e-mail addresses"
 	}
-	Settings "Settings"
+	Settings "Configurações"
 	{
 		// c066d932
 		:00_Current "Settings"
@@ -7805,7 +7805,7 @@ namespace NOptionsWindow
 			// aef210dd
 			:00_Current "Inserting a new item:"
 		}
-		Reports "Reports:"
+		Reports "Relatórios:"
 		{
 			// 76050d3f
 			:00_Current "Reports:"
@@ -7880,7 +7880,7 @@ namespace NPrint
 		// b2d8c0ce
 		:00_Current "Fit to pages"
 	}
-	HansoftProjectManagerPrint "Print"
+	HansoftProjectManagerPrint "Imprimir"
 	{
 		// 587a0bca
 		:00_Current "Print"
@@ -7919,12 +7919,12 @@ namespace NPrint
 		// 5ced9007
 		:00_Current "Print as User story cards"
 	}
-	PrintSection "Print"
+	PrintSection "Imprimir"
 	{
 		// 9b4bac1a
 		:00_Current "Print"
 	}
-	PrintThisViewNow "Print this view"
+	PrintThisViewNow "Imprimir esta vizualização"
 	{
 		// 0e4babec
 		:00_Current "Print this view"
@@ -7934,7 +7934,7 @@ namespace NPrint
 		// b24c0064
 		:00_Current "Save to PDF"
 	}
-	Show "Show"
+	Show "Mostrar"
 	{
 		// 857dd339
 		:00_Current "Show"
@@ -8092,7 +8092,7 @@ namespace NPrintPage
 		// 0 text - Custom "Project schedule" string
 		:00_Current "{0,cc}"
 	}
-	ProjectX "Project {0}"
+	ProjectX "Projeto {0}"
 	{
 		// d1c49684
 		// 0 text - Name of project
@@ -8496,7 +8496,7 @@ namespace NReportFunctions
 		// 0bae6005
 		:00_Current "Copy as hyperlink"
 	}
-	CreateAndShareReportsCtrlShiftR "Create and share reports..."
+	CreateAndShareReportsCtrlShiftR "Criar e compartilhar Relatórios..."
 	{
 		// 18881c0e
 		:00_Current "Create and share reports..."
@@ -8795,12 +8795,12 @@ namespace NSelect
 		// 6495213b
 		:00_Current "Please review and edit the pipelines and workflows instead."
 	}
-	SelectAStartDateForThisActivity "Select a start date for this activity..."
+	SelectAStartDateForThisActivity "Selecionar uma data de início para esta atividade..."
 	{
 		// 77cdc3c4
 		:00_Current "Select a start date for this activity..."
 	}
-	SelectAnEndDateForThisActivity "Select an end date for this activity..."
+	SelectAnEndDateForThisActivity "Selecionar uma data de encerramento para esta atividade..."
 	{
 		// 54fccd1b
 		:00_Current "Select an end date for this activity..."
@@ -8880,7 +8880,7 @@ namespace NSprintResourceUsageDetails
 		// 1a5d3f04
 		:00_Current "Close"
 	}
-	HoursNotSet "(hours not set)"
+	HoursNotSet "(horas não definidas)"
 	{
 		// de4cdedc
 		:00_Current "(hours not set)"
@@ -8936,7 +8936,7 @@ namespace NSprintResourceUsageDetails
 		// 105d78ab
 		:00_Current "Work remaining"
 	}
-	WorkRemainingForX "Work remaining for {0}"
+	WorkRemainingForX "Trabalho restante por {0}"
 	{
 		// 7e981fea
 		// 0 text - User name
@@ -9153,7 +9153,7 @@ namespace NSprintWorkRemainingHistoryPopup
 		// 15c0f49c
 		:00_Current "Sub project path"
 	}
-	TotalWorkThisDayNone "None"
+	TotalWorkThisDayNone "Nenhum"
 	{
 		// 99c9457b
 		:00_Current "None"
@@ -9274,7 +9274,7 @@ namespace NTimeReporting
 		// 22c0ca50
 		:00_Current "No comment has been set"
 	}
-	NoneProjectSelected "None"
+	NoneProjectSelected "Nenhum"
 	{
 		// b1efd324
 		:00_Current "None"
@@ -10113,7 +10113,7 @@ namespace NWallFunctions
 		// 0 text - Default name of sprint type or custom name
 		:00_Current "<No {0} is currently ongoing that you are a member of>"
 	}
-	OngoingSprints "Ongoing {0} that I'm a member of"
+	OngoingSprints "{0} em andamento do qual sou membro"
 	{
 		// 717c41f8
 		// 0 text - Default name of sprint type or custom name
@@ -10147,22 +10147,22 @@ namespace NWallFunctions
 		// e2d47631
 		:00_Current "Some of the selected items does already belong to a group. Please move all selected items to a free area."
 	}
-	WallViewNavigationBoardMode "Columns:"
+	WallViewNavigationBoardMode "Colunas:"
 	{
 		// 964af3dc
 		:00_Current "Columns:"
 	}
-	WallViewNavigationBoardRows "Lanes:"
+	WallViewNavigationBoardRows "Pistas:"
 	{
 		// 964db442
 		:00_Current "Lanes:"
 	}
-	WallViewNavigationSelect "Select"
+	WallViewNavigationSelect "Selecionar"
 	{
 		// 0901976f
 		:00_Current "Select"
 	}
-	WallViewNavigationSettings "Settings:"
+	WallViewNavigationSettings "Configurações:"
 	{
 		// 63812240
 		:00_Current "Settings:"
@@ -10322,121 +10322,121 @@ namespace NWindowMainToolbarCommands
 		// 90ab7ef0
 		:00_Current "Add / remove users to project..."
 	}
-	AutoSort "Auto sort "
+	AutoSort "Ordenar automático "
 	{
 		// bc9eeeee
 		:00_Current "Auto sort "
 	}
-	CalendarSettings "Calendar settings..."
+	CalendarSettings "Personalizar calendário..."
 	{
 		// 2a9509b8
 		:00_Current "Calendar settings..."
 	}
-	ChangeAvatar "Change my avatar..."
+	ChangeAvatar "Alterar meu Avatar..."
 	{
 		// 9b91dd52
 		:00_Current "Change my avatar..."
 	}
-	ChangeMyPassword "Change my password..."
+	ChangeMyPassword "Alterar minha Senha..."
 	{
 		// f258cdcc
 		:00_Current "Change my password..."
 	}
-	CloseTheActiveReportByClickingHereAgain "Close the active report by clicking here again"
+	CloseTheActiveReportByClickingHereAgain "Fechar o relatório ativo clicando aqui novamente"
 	{
 		// 7dfe43df
 		:00_Current "Close the active report by clicking here again"
 	}
-	ConvertGhostResourcesToNormalResources "Convert ghost users to normal users"
+	ConvertGhostResourcesToNormalResources "Converter usuários fantasmas para usuários normais"
 	{
 		// 202e9c95
 		:00_Current "Convert ghost users to normal users"
 	}
-	CreateDeleteOrEditGhostResources "Manage ghost users"
+	CreateDeleteOrEditGhostResources "Configurar usuários fantasmas"
 	{
 		// 1187fc5b
 		:00_Current "Manage ghost users"
 	}
-	CustomGroups "Custom groups"
+	CustomGroups "Grupos personalizados"
 	{
 		// 3c8ebe48
 		:00_Current "Custom groups"
 	}
-	CustomisationAndSettings "Customisation and settings"
+	CustomisationAndSettings "Personalização e configurações"
 	{
 		// 960d36e3
 		:00_Current "Customisation and settings"
 	}
-	CustomiseBugWorkflowCtrlShiftW "Customise bug workflow..."
+	CustomiseBugWorkflowCtrlShiftW "Personalizar workflow de bugs..."
 	{
 		// 01d8d36c
 		:00_Current "Customise bug workflow..."
 	}
-	CustomiseExtraColumns "Customise extra columns..."
+	CustomiseExtraColumns "Personalizar colunas extras..."
 	{
 		// 9dfd538e
 		:00_Current "Customise extra columns..."
 	}
-	CustomiseExtraColumnsFindingBugsEtc "Customise project ({0})..."
+	CustomiseExtraColumnsFindingBugsEtc "Personalizar projeto ({0})..."
 	{
 		// 2687203a
 		// 0 text - Default name of quality assurance or custom name
 		:00_Current "Customise project ({0})..."
 	}
-	CustomiseProject "Customise project..."
+	CustomiseProject "Personalizar projeto..."
 	{
 		// ee990b40
 		:00_Current "Customise project..."
 	}
-	CustomiseProjectIntegrationSettings "Customise project integration settings..."
+	CustomiseProjectIntegrationSettings "Personalizar configurações de integração do projeto..."
 	{
 		// 9c0975b5
 		:00_Current "Customise project integration settings..."
 	}
-	CustomiseQAIntegrationSettings "Customise {0} integration settings..."
+	CustomiseQAIntegrationSettings "Personalizar configurações de integração de {0}..."
 	{
 		// 3c0183f0
 		// 0 text - Default name of quality assurance or custom name
 		:00_Current "Customise {0} integration settings..."
 	}
-	CustomiseX "Customise project ({0})..."
+	CustomiseX "Personalizar projeto ({0})..."
 	{
 		// 3df439e1
 		// 0 text - Default name of backlog type or custom name
 		:00_Current "Customise project ({0})..."
 	}
-	CustomiseXIntegrationSettings "Customise {0} integration settings..."
+	CustomiseXIntegrationSettings "Personalizar configurações de integração de {0}..."
 	{
 		// 767e0eb6
 		// 0 text - Default name of backlog type or custom name
 		:00_Current "Customise {0} integration settings..."
 	}
-	DetailedAccessAndRestrictionRules "Detailed access and restriction rules..."
+	DetailedAccessAndRestrictionRules "Regras de acesso e restrições detalhadas..."
 	{
 		// 6692e32f
 		:00_Current "Detailed access and restriction rules..."
 	}
-	DisplayNetworkStats "Display network stats"
+	DisplayNetworkStats "Mostrar estatísticas de rede"
 	{
 		// efa7301c
 		:00_Current "Display network stats"
 	}
-	EmailSettings "E-mail settings..."
+	EmailSettings "Configurações de E-mail..."
 	{
 		// 06bd0ea6
 		:00_Current "E-mail settings..."
 	}
-	EnterGhostResourceMode "Enter ghost user mode"
+	EnterGhostResourceMode "Entrar em modo de usuário fantasma"
 	{
 		// f371a37d
 		:00_Current "Enter ghost user mode"
 	}
-	ExitGhostResourceMode "Exit ghost user mode"
+	ExitGhostResourceMode "Sair do modo de usuário fantasma"
 	{
 		// b6ab9c99
 		:00_Current "Exit ghost user mode"
 	}
-	ExportAndImport "Export and import"
+	ExportAndImport "Exportar e Importar"
 	{
 		// a26b911d
 		:00_Current "Export and import"
@@ -10451,32 +10451,32 @@ namespace NWindowMainToolbarCommands
 		// 89c9743f
 		:00_Current "Ghost user mode"
 	}
-	ImportHansoftXMLCtrlI "Import Hansoft XML"
+	ImportHansoftXMLCtrlI "Importar XML do Hansoft"
 	{
 		// 367bff6a
 		:00_Current "Import Hansoft XML"
 	}
-	ImportMicrosoftProjectXML "Import Microsoft Project XML"
+	ImportMicrosoftProjectXML "Importar XML do Microsoft Project"
 	{
 		// 66c6c126
 		:00_Current "Import Microsoft Project XML"
 	}
-	ImportTestTrackProXML "Import TestTrack Pro XML"
+	ImportTestTrackProXML "Importar XML do TestTrack Pro"
 	{
 		// 3beb1a7f
 		:00_Current "Import TestTrack Pro XML"
 	}
-	LogOut "Sign out"
+	LogOut "Sair"
 	{
 		// ef88d507
 		:00_Current "Sign out"
 	}
-	ManageUserViewProfiles "Manage user view presets..."
+	ManageUserViewProfiles "Alterar as predefinições de visualização do usuário..."
 	{
 		// dd81af34
 		:00_Current "Manage user view presets..."
 	}
-	MenuMoreMenuActionPipelinesKanbansWorkflows "Pipelines, Kanbans and Workflows..."
+	MenuMoreMenuActionPipelinesKanbansWorkflows "Pipelines, Kanbans e  Workflows..."
 	{
 		// ddcd2a9d
 		:00_Current "Pipelines, Kanbans and Workflows..."
@@ -10486,7 +10486,7 @@ namespace NWindowMainToolbarCommands
 		// 530235e9
 		:00_Current "Pipelines, Kanbans and Workflows"
 	}
-	MenuWallViewKanbanWallModes "Kanban board modes"
+	MenuWallViewKanbanWallModes "Modos de tela de Kanban"
 	{
 		// 1b2ae180
 		:00_Current "Kanban board modes"
@@ -10503,7 +10503,7 @@ namespace NWindowMainToolbarCommands
 		:00_Current "Kanban '{0}'"
 	}
 
-	MenuWallViewSprintWallModeGroupByColumn "Group by column '{0}'"
+	MenuWallViewSprintWallModeGroupByColumn "Grupo por coluna '{0}'"
 	{
 		// ad821958
 		// 0 text - Name of column
@@ -10516,32 +10516,32 @@ namespace NWindowMainToolbarCommands
 		// 0 text - Default name of sprint type or custom name
 		:00_Current "{0,cc} board modes"
 	}
-	MenuZoomViewIn "Zoom view In"
+	MenuZoomViewIn "Mais Zoom"
 	{
 		// 48b5fd79
 		:00_Current "Zoom view In"
 	}
-	MenuZoomViewOut "Zoom view Out"
+	MenuZoomViewOut "Menos Zoom"
 	{
 		// 5f75c77a
 		:00_Current "Zoom view Out"
 	}
-	MenuZoomViewReset "Zoom view 100%"
+	MenuZoomViewReset "Zoom  100%"
 	{
 		// 14331aa5
 		:00_Current "Zoom view 100%"
 	}
-	MyPersonalIntegrationOptions "My personal integration options..."
+	MyPersonalIntegrationOptions "Minhas opções pessoais de integração..."
 	{
 		// 55c8e767
 		:00_Current "My personal integration options..."
 	}
-	MyPersonalOptionsCtrlO "My personal options..."
+	MyPersonalOptionsCtrlO "Minhas opções pessoais..."
 	{
 		// 6fd1b687
 		:00_Current "My personal options..."
 	}
-	MyTrends "My trends..."
+	MyTrends "Minhas tendências..."
 	{
 		// b938eaa3
 		:00_Current "My trends..."
@@ -10556,12 +10556,12 @@ namespace NWindowMainToolbarCommands
 		// d90e2056
 		:00_Current "Project history"
 	}
-	ProjectHistoryAutosaveOptions "Project history auto-save options"
+	ProjectHistoryAutosaveOptions "Opções para salvar automaticamente o histórico do Projeto"
 	{
 		// 6adc71aa
 		:00_Current "Project history auto-save options"
 	}
-	ProjectHistoryAutosaveOptionsForBothSchedule "Project history auto-save options (for both schedule and {0})"
+	ProjectHistoryAutosaveOptionsForBothSchedule "Opções para salvar automaticamente o histórico do Projeto (para agendados e {0})"
 	{
 		// e86d8ecb
 		// 0 text - Default name of backlog type or custom name
@@ -10572,18 +10572,18 @@ namespace NWindowMainToolbarCommands
 		// df385b1f
 		:00_Current "Reports"
 	}
-	SaveProjectScheduleInProjectHistoryCtrlK "Save a snapshot in the project history"
+	SaveProjectScheduleInProjectHistoryCtrlK "Salvar um snapshot no histórico do projeto"
 	{
 		// f2ab4700
 		:00_Current "Save a snapshot in the project history"
 	}
-	SaveXInProjectHistoryCtrlK "Save {0} in project history"
+	SaveXInProjectHistoryCtrlK "Salvar {0} no histórico do projeto"
 	{
 		// 12d9cf14
 		// 0 text - Default name of backlog type or custom name
 		:00_Current "Save {0} in project history"
 	}
-	ScreenshotToolCtrlShiftM "Screenshot tool..."
+	ScreenshotToolCtrlShiftM "Ferramenta de captura de tela..."
 	{
 		// 5c6a7d09
 		:00_Current "Screenshot tool..."
@@ -10593,49 +10593,49 @@ namespace NWindowMainToolbarCommands
 		// 3b012635
 		:00_Current "Sort "
 	}
-	SwitchToAgileInterfaceCtrlW "Switch to Agile interface"
+	SwitchToAgileInterfaceCtrlW "Alternar para interface Agile"
 	{
 		// 17fc87a1
 		:00_Current "Switch to Agile interface"
 	}
-	SwitchToLanguageXX "Switch to language '{0} - {1}'"
+	SwitchToLanguageXX "Alternar para língua '{0} - {1}'"
 	{
 		// 70885b16
 		// 0 text - Language name
 		// 1 text - Lanugage ID
 		:00_Current "Switch to language '{0} - {1}'"
 	}
-	SwitchToTaskSchedulingInterfaceCtrlW "Switch to Gantt scheduling interface"
+	SwitchToTaskSchedulingInterfaceCtrlW "Alternar para interface de agendamento Gantt"
 	{
 		// 451dd978
 		:00_Current "Switch to Gantt scheduling interface"
 	}
-	Tools "Tools"
+	Tools "Ferramentas"
 	{
 		// 9b37f7fe
 		:00_Current "Tools"
 	}
-	Trends "Trends..."
+	Trends "Tendências..."
 	{
 		// 0267cc7d
 		:00_Current "Trends..."
 	}
-	ViewBugWorkflowCtrlShiftW "View bug workflow..."
+	ViewBugWorkflowCtrlShiftW "Ver workflow de bugs..."
 	{
 		// 4ca8648b
 		:00_Current "View bug workflow..."
 	}
-	ViewPipelinesKanbansAndWorkflowsShortcut "View pipelines, kanbans and workflows..."
+	ViewPipelinesKanbansAndWorkflowsShortcut "Ver pipelines, kanbans e workflows..."
 	{
 		// 7bb9762c
 		:00_Current "View pipelines, kanbans and workflows..."
 	}
-	ViewProjectScheduleHistoryCtrlJ "View project schedule history"
+	ViewProjectScheduleHistoryCtrlJ "Ver histórico de agendamento do projeto"
 	{
 		// 49d1029d
 		:00_Current "View project schedule history"
 	}
-	ViewXHistoryCtrlJ "View {0} history"
+	ViewXHistoryCtrlJ "Ver histórico de {0}"
 	{
 		// 28687f31
 		// 0 text - Default name of backlog type or custom name
@@ -10647,25 +10647,25 @@ namespace NWindowMainToolbarCommands
 		// 0 text - Default name of backlog type or custom name
 		:00_Current "{0,cc} history"
 	}
-	XTasksByDescription "{0}tasks by description"
+	XTasksByDescription "{0}tarefas por descrição"
 	{
 		// 67af2c0a
 		// 0 text - Sort or auto-sort text
 		:00_Current "{0}tasks by description"
 	}
-	XTasksByDuration "{0}tasks by duration"
+	XTasksByDuration "{0}tarefas por duração"
 	{
 		// 8d40cc2c
 		// 0 text - Sort or auto-sort text
 		:00_Current "{0}tasks by duration"
 	}
-	XTasksByFinishDate "{0}tasks by finish date"
+	XTasksByFinishDate "{0}tarefas por data de finalização"
 	{
 		// 272ff285
 		// 0 text - Sort or auto-sort text
 		:00_Current "{0}tasks by finish date"
 	}
-	XTasksByStartDate "{0}tasks by start date"
+	XTasksByStartDate "{0}tarefas por data de início"
 	{
 		// 27584152
 		// 0 text - Sort or auto-sort text
@@ -10706,18 +10706,18 @@ namespace NWindowPopupCallbackMessages
 }
 namespace NShowHideItems
 {
-	ShowAccuTimeInToDoList "Show {0} column"
+	ShowAccuTimeInToDoList "Mostrar coluna {0}"
 	{
 		// 123dde3d
 		// 0 text - Time spent custom name
 		:00_Current "Show {0} column"
 	}
-	ShowAccuTimeInToDoListMenu "Show Time spent in To do list"
+	ShowAccuTimeInToDoListMenu "Mostrar tempo gasto na lista To do"
 	{
 		// 9e78aa32
 		:00_Current "Show Time spent in To do list"
 	}
-	ShowArchivedItems "Show Archived items"
+	ShowArchivedItems "Mostrar itens Arquivados"
 	{
 		// 055d72b1
 		:00_Current "Show Archived items"
@@ -10728,83 +10728,83 @@ namespace NShowHideItems
 		// 0 text - Default name for bugs or custom name
 		:00_Current "Show [NHelpers::PluralizeCapitalize(2,$0)]"
 	}
-	ShowCompletedTasks "Show Completed items"
+	ShowCompletedTasks "Mostrar itens Completos"
 	{
 		// ff3e77ec
 		:00_Current "Show Completed items"
 	}
-	ShowCompletedTasksThatHasAWorkflow "Show Completed items that have a workflow"
+	ShowCompletedTasksThatHasAWorkflow "Mostrar itens Completos que têm um workflow"
 	{
 		// 92849b35
 		:00_Current "Show Completed items that have a workflow"
 	}
-	ShowDetailedDescriptionText "Show Detailed description in list"
+	ShowDetailedDescriptionText "Mostrar descrição detalhada na lista"
 	{
 		// 2a884e2e
 		:00_Current "Show Detailed description in list"
 	}
-	ShowItemDetailsWindow "Show Item details window"
+	ShowItemDetailsWindow "Mostrar janela de detalhes do item"
 	{
 		// e0227596
 		:00_Current "Show Item details window"
 	}
-	ShowItemsAssignedToMeOnly "Show Assigned to me only"
+	ShowItemsAssignedToMeOnly "Mostrar apenas designados para mim"
 	{
 		// 98f18b90
 		:00_Current "Show Assigned to me only"
 	}
-	ShowItemsCommittedToX "Show Committed items"
+	ShowItemsCommittedToX "Mostrar itens que já receberam Commit"
 	{
 		// 25700b0c
 		:00_Current "Show Committed items"
 	}
-	ShowItemsDelegatedToMeOnly "Show Editable by me only"
+	ShowItemsDelegatedToMeOnly "Mostrar somente editáveis por mim"
 	{
 		// 18841e01
 		:00_Current "Show Editable by me only"
 	}
-	ShowLastCommentMade "Show Last comment in list"
+	ShowLastCommentMade "Mostrar últimos comentários em lista"
 	{
 		// 91303907
 		:00_Current "Show Last comment in list"
 	}
-	ShowOngoingAndFutureXsThatIMAMemberOfOrHave "Show Ongoing and future {0}s that I'm a member of only"
+	ShowOngoingAndFutureXsThatIMAMemberOfOrHave "Mostrar apenas {0}s em andamento e futuros dos quais sou membro"
 	{
 		// 3c0e888d
 		// 0 text - Default name of sprint type or custom name
 		:00_Current "Show Ongoing and future {0}s that I'm a member of only"
 	}
-	ShowOnlyFourWeeks "Show Only four weeks of scheduled tasks"
+	ShowOnlyFourWeeks "Mostrar somente 4 semanas de tarefas agendadas"
 	{
 		// 1c296166
 		:00_Current "Show Only four weeks of scheduled tasks"
 	}
-	ShowPipelineTasksThatCannotStart "Show Pipeline tasks that cannot start"
+	ShowPipelineTasksThatCannotStart "Mostrar tarefas do Pipeline que não podem iniciar"
 	{
 		// 18dddd27
 		:00_Current "Show Pipeline tasks that cannot start"
 	}
-	ShowPriorityInToDoList "Show Priority column"
+	ShowPriorityInToDoList "Mostrar coluna Prioridade"
 	{
 		// c94ce494
 		:00_Current "Show Priority column"
 	}
-	ShowPriorityInToDoListMenu "Show Priority in To do list"
+	ShowPriorityInToDoListMenu "Mostrar Prioridade na lista To do"
 	{
 		// b7c10409
 		:00_Current "Show Priority in To do list"
 	}
-	ShowTasks "Show Tasks"
+	ShowTasks "Mostrar Tarefas"
 	{
 		// 1dfddaaf
 		:00_Current "Show Tasks"
 	}
-	ShowTimelineViewInMyWork "Show Timeline view"
+	ShowTimelineViewInMyWork "Mostrar visualização do Timeline"
 	{
 		// 8289ce9b
 		:00_Current "Show Timeline view"
 	}
-	ShowUserStoryText "Show User stories in list"
+	ShowUserStoryText "Mostrar Histórias de Usuário em lista"
 	{
 		// e76ce9ee
 		:00_Current "Show User stories in list"

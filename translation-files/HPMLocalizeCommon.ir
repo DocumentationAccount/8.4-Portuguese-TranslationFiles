@@ -177,7 +177,7 @@
 				// 70f5284e
 				:00_Current "Estimated days"
 			}
-			EstimatedIdealHours "Estimated hours"
+			EstimatedIdealHours "Horas Estimadas"
 			{
 				// 8fea30ae
 				:00_Current "Estimated hours"
@@ -382,7 +382,7 @@
 				// 442754a2
 				:00_Current "Assign tag"
 			}
-			Resources "Assigned to"
+			Resources "Designado para"
 			{
 				// b45e1159
 				:00_Current "Assigned to"
@@ -1776,7 +1776,7 @@
 			:00_Current "The chart creator has been deleted.\r\n"\
 			            "Users with edit rights can take ownership."
 		}
-		None "None"
+		None "Nenhum"
 		{
 			// dd909b28
 			:00_Current "None"
@@ -1932,12 +1932,12 @@
 				// 71ddf44e
 				:00_Current "Historical data"
 			}
-			Pipelines "Pipelines, kanbans and workflows"
+			Pipelines "Pipelines, kanbans e workflows"
 			{
 				// 5e953c2b
 				:00_Current "Pipelines, kanbans and workflows"
 			}
-			Projects "Projects"
+			Projects "Projetos"
 			{
 				// 414e2a0c
 				:00_Current "Projects"
@@ -1973,7 +1973,7 @@
 				// 1 text - Project part name (All items / Backlog etc)
 				:00_Current "{0} - {1}"
 			}
-			Projects "Projects"
+			Projects "Projetos"
 			{
 				// ba45f1c5
 				:00_Current "Projects"
@@ -2021,7 +2021,7 @@
 				// 458fb06b
 				:00_Current "Categories"
 			}
-			CustomGroups "Custom groups"
+			CustomGroups "Grupos personalizados"
 			{
 				// e179cc88
 				:00_Current "Custom groups"
@@ -2031,12 +2031,12 @@
 				// 11089f00
 				:00_Current "Numeric"
 			}
-			Pipelines "Pipelines, Kanbans and Workflows"
+			Pipelines "Pipelines, Kanbans e Workflows"
 			{
 				// 3211a5f6
 				:00_Current "Pipelines, Kanbans and Workflows"
 			}
-			Projects "Projects"
+			Projects "Projetos"
 			{
 				// 28af0677
 				:00_Current "Projects"
@@ -3130,7 +3130,7 @@
 			// 0 text - Default name of bug type or custom name
 			:00_Current "Report new {0}"
 		}
-		ReportNewBugFixed "Report new bug"
+		ReportNewBugFixed "Reportar um novo bug"
 		{
 			// 975ee28d
 			:00_Current "Report new bug"
@@ -3959,7 +3959,7 @@ namespace NServerConfigHelperTool
 		// b1f041a5
 		:00_Current "Are you sure you want to uninstall the server?"
 	}
-	Cancel "Cancel"
+	Cancel "Cancelar"
 	{
 		// db6411e3
 		:00_Current "Cancel"
@@ -4030,7 +4030,7 @@ namespace NServerConfigHelperTool
 		// 35571e97
 		:00_Current "Hide"
 	}
-	No "No"
+	No "Não"
 	{
 		// 1226669a
 		:00_Current "No"
@@ -4055,7 +4055,7 @@ namespace NServerConfigHelperTool
 		// bcad6bae
 		:00_Current "Uninstall server"
 	}
-	Yes "Yes"
+	Yes "Sim"
 	{
 		// 56f367ce
 		:00_Current "Yes"

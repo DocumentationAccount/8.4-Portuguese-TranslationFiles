@@ -3,7 +3,7 @@
 	// e98038ab
 	:00_Current "estimated days"
 }
-BurndownChartModeIdealHours "estimated hours"
+BurndownChartModeIdealHours "Horas estimadas"
 {
 	// 19d74cab
 	:00_Current "estimated hours"
@@ -13,7 +13,7 @@ BurndownChartModePoints NLocalize/NShared/Points2
 	// 1e7170b8
 	:00_Current "points"
 }
-BurndownChartModeWorkRemaining "work remaining"
+BurndownChartModeWorkRemaining "trabalho restante"
 {
 	// 0dda28b8
 	:00_Current "work remaining"
@@ -23,7 +23,7 @@ BurndownUnitFromModeIdealDays NLocalize/NShared/IdealDays
 	// 5ded40cd
 	:00_Current "Estimated days"
 }
-BurndownUnitFromModeIdealHours "Estimated hours"
+BurndownUnitFromModeIdealHours "Horas estimadas"
 {
 	// 1be5590d
 	:00_Current "Estimated hours"
@@ -33,7 +33,7 @@ BurndownUnitFromModePoints NLocalize/NShared/Points
 	// 05f49c1a
 	:00_Current "Points"
 }
-BurndownUnitFromModeWorkHours "Work hours"
+BurndownUnitFromModeWorkHours "Horas trabalhadas"
 {
 	// e124b6f1
 	:00_Current "Work hours"
@@ -43,7 +43,7 @@ ShortBurndownUnitFromModeIdealDays NLocalize/NShared/IdealDays2
 	// e2ef2c7d
 	:00_Current "estimated days"
 }
-ShortBurndownUnitFromModeIdealHours "estimated hours"
+ShortBurndownUnitFromModeIdealHours "horas estimadas"
 {
 	// 4124babd
 	:00_Current "estimated hours"
@@ -206,7 +206,7 @@ namespace NAutoItem
 		// ccdc4aff
 		:00_Current "0 days per day"
 	}
-	IdealHours "Estimated hours"
+	IdealHours "Horas estimadas"
 	{
 		// 1d64a26a
 		:00_Current "Estimated hours"
@@ -383,7 +383,7 @@ namespace NBlock
 		// 0 text - Default name of bug type or custom name
 		:00_Current "[NHelpers::Pluralize(2,$0)] assigned to you"
 	}
-	BugsImportedViaXML "[NHelpers::Pluralize(2,$0)] imported via XML"
+	BugsImportedViaXML "[NHelpers::Pluralize(2,$0)] importados via XML"
 	{
 		// 074705a3
 		// 0 text - Default name of bug type or custom name
@@ -395,23 +395,23 @@ namespace NBlock
 		// 0 text - Default name of bug type or custom name
 		:00_Current "[NHelpers::Pluralize(2,$0)] in this project"
 	}
-	ClickHereToCreateANewTask ">> Click here to create a new task"
+	ClickHereToCreateANewTask ">> Clique aqui para criar uma nova tarefa"
 	{
 		// 71c771bc
 		:00_Current ">> Click here to create a new task"
 	}
-	ClickHereToCreateANewX ">> Click here to create a new {0}"
+	ClickHereToCreateANewX ">> Clique aqui para criar uma nova {0}"
 	{
 		// b2074b01
 		// 0 text - Default name for sprint or backlog item or custom names
 		:00_Current ">> Click here to create a new {0}"
 	}
-	LimitedVisibility " (Limited visibility)"
+	LimitedVisibility " (Visibilidade limitada)"
 	{
 		// 206108ed
 		:00_Current " (Limited visibility)"
 	}
-	NewBugsReportedByMe "New [NHelpers::Pluralize(2,$0)] reported by me"
+	NewBugsReportedByMe "Novos [NHelpers::Pluralize(2,$0)]  reportados por mim"
 	{
 		// de85556a
 		// 0 text - Default name for bugs or custom name
@@ -430,23 +430,23 @@ namespace NBlock
 		// 1 text - Name of a sprint
 		:00_Current "{0,cc} {1}"
 	}
-	TasksAssignedToYou "Tasks assigned to you, "
+	TasksAssignedToYou "Tarefas designadas para você,"
 	{
 		// 2c60a991
 		:00_Current "Tasks assigned to you, "
 	}
-	TasksAssignedToYouStartedX "Tasks assigned to you, started {0}"
+	TasksAssignedToYouStartedX "Tarefas designadas para você, começaram {0}"
 	{
 		// 12c5dc40
 		// 0 text - Formatted date
 		:00_Current "Tasks assigned to you, started {0}"
 	}
-	TasksAssignedToYouStartsToday "Tasks assigned to you, starts today"
+	TasksAssignedToYouStartsToday "Tarefas designadas para você, começam hoje"
 	{
 		// 71007813
 		:00_Current "Tasks assigned to you, starts today"
 	}
-	TasksAssignedToYouStartsX "Tasks assigned to you, starts {0}"
+	TasksAssignedToYouStartsX "Tarefas designadas para você, começam {0}"
 	{
 		// d20600aa
 		// 0 text - Formatted date
@@ -619,7 +619,7 @@ namespace NPlanned
 		// 0 integer - Number of points
 		:00_Current "{0} [NHelpers::Pluralize($0,'point')]"
 	}
-	XofXTasksDone " - {0} of {1} tasks done"
+	XofXTasksDone " '- {0} de {1} tarefas realizadas"
 	{
 		// b690f785
 		// 0 integer - The number of tasks done
@@ -1063,14 +1063,14 @@ namespace NPlannedListDraw
 namespace NPlannedQARelated
 // Balloon messages when violating status requirements in bug workflow
 {
-	BeforeGoingFromStatusXToXYouMustFillInThisData "Before going from status '{0}' to '{1}' you must fill in this data:"
+	BeforeGoingFromStatusXToXYouMustFillInThisData "Antes de ir do status '{0}' para '{1}' você deve preencher este dado:"
 	{
 		// e08e19af
 		// 0 text - Workflow status name
 		// 1 text - Workflow status name
 		:00_Current "Before going from status '{0}' to '{1}' you must fill in this data:"
 	}
-	BeforeSettingAnotherStatusOrResourceYouMust "Before setting another status or user you must fill in this data:"
+	BeforeSettingAnotherStatusOrResourceYouMust "Antes de definir outro status ou usuário você deve preencher estes dados:"
 	{
 		// 75e9005c
 		:00_Current "Before setting another status or user you must fill in this data:"
@@ -1090,7 +1090,7 @@ namespace NPlannedQARelated
 		// a12a1727
 		:00_Current "* Detailed description"
 	}
-	StepsToReproduce "* Steps to reproduce"
+	StepsToReproduce "* Passos para reproduzir"
 	{
 		// 9b707da2
 		:00_Current "* Steps to reproduce"
@@ -1114,7 +1114,7 @@ namespace NPlannedTimeDraw
 		// 0 text - Default name of sprint type or custom name
 		:00_Current "{0,cc}"
 	}
-	WorkXPercent "(work {0}%)"
+	WorkXPercent "(trabalho {0}%)"
 	{
 		// f2213e3d
 		// 0 integer - Allocation percent
@@ -1128,7 +1128,7 @@ namespace NPlannedWorkflowRelated
 		// 6612e86e
 		:00_Current "(No name)"
 	}
-	XByX "{0} by {1}"
+	XByX "{0} de {1}"
 	{
 		// 5e60ecdb
 		// 0 text - e.g. Task
@@ -1143,12 +1143,12 @@ namespace NResourceAllocationBlock
 		// 98c83f98
 		:00_Current "Ghost user"
 	}
-	GroupAverage "Group average"
+	GroupAverage "Média do grupo"
 	{
 		// 45f1e953
 		:00_Current "Group average"
 	}
-	Hours "hours >"
+	Hours "horas >"
 	{
 		// a178753c
 		:00_Current "hours >"

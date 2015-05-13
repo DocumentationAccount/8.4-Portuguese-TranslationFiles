@@ -651,7 +651,7 @@ namespace NPMSWin32
 {
 	namespace NWaitForBackupWindow
 	{
-		Cancel "Cancel"
+		Cancel "Cancelar"
 		{
 			// 35225e76
 			:00_Current "Cancel"
@@ -679,7 +679,7 @@ namespace NPMSWin32
 			// 9c4688bc
 			:00_Current "< Back"
 		}
-		Cancel "Cancel"
+		Cancel "Cancelar"
 		{
 			// ca66c3f1
 			:00_Current "Cancel"

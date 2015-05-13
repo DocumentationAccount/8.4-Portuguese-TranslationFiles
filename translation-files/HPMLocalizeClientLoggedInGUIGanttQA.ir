@@ -458,7 +458,7 @@ namespace NTopWindow
 		// 0 text - Name of report (text shown when report is active)
 		:00_Current "Report '{0}'"
 	}
-	ReportedByMe "Reported by me"
+	ReportedByMe " reportados por mim"
 	{
 		// 594a3257
 		:00_Current "Reported by me"
@@ -2173,7 +2173,7 @@ namespace NWorkflow
 			// 0 text - Name of pipeline
 			:00_Current "Settings for {0}"
 		}
-		SettingsTitle "Settings"
+		SettingsTitle "Configurações"
 		{
 			// a58cf6be
 			:00_Current "Settings"

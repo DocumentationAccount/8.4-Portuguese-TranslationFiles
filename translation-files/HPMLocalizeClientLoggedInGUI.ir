@@ -30,7 +30,7 @@ namespace NActivityDetailsWindow
 		// cd0f5dcd
 		:00_Current "Change layout orientation"
 	}
-	DetailedDescription "Detailed description"
+	DetailedDescription "Descrição detalhada"
 	{
 		// d9ba8fbb
 		:00_Current "Detailed description"
@@ -457,7 +457,7 @@ namespace NActivityDetailsWindow
 			// 5a1eab3a
 			:00_Current "Estimated days"
 		}
-		IdealHours "Estimated hours"
+		IdealHours "Horas Estimadas"
 		{
 			// 9e44111a
 			:00_Current "Estimated hours"
@@ -1461,7 +1461,7 @@ namespace NEmailConfig
 		// f1db19a5
 		:00_Current "Name appearing on sent mail:"
 	}
-	NoSecurityProtocol "None"
+	NoSecurityProtocol "Nenhum"
 	{
 		// 75bca415
 		:00_Current "None"
@@ -2953,28 +2953,28 @@ namespace NLicenseInformationPopup
 namespace NMain
 // Messages shown after actions in main window.
 {
-	AdvancedView "Detailed view"
+	AdvancedView "Visualização Detalhada"
 	{
 		// f1c324a6
 		:00_Current "Detailed view"
 	}
-	AreYouSureYouWantToLogOutFromThisSession "Are you sure you want to log out from this session?"
+	AreYouSureYouWantToLogOutFromThisSession "Tem certeza que quer terminar esta sessão?"
 	{
 		// 429b82ad
 		:00_Current "Are you sure you want to log out from this session?"
 	}
-	AskToUploadAvatarWhenHavingNone "We notice that you haven't uploaded an avatar. Click here to do that now."
+	AskToUploadAvatarWhenHavingNone "Notamos que você não enviou um avatar. Clique aqui para fazer isso agora."
 	{
 		// 084c849a
 		:00_Current "We notice that you haven't uploaded an avatar. Click here to do that now."
 	}
-	CouldNotGetProjectHistoryEntryTheErrorWas "Could not get Project History Entry. The error was: {0}."
+	CouldNotGetProjectHistoryEntryTheErrorWas "Não pôde acessar a Entrada do Histórico do Projeto. O erro foi: {0}."
 	{
 		// 01173dce
 		// 0 text - Error message
 		:00_Current "Could not get Project History Entry. The error was: {0}."
 	}
-	CouldNotGetProjectHistoryTheErrorWas "Could not get Project History. The error was: {0}."
+	CouldNotGetProjectHistoryTheErrorWas "Não pôde acessar o Histórico do Projeto. O erro foi: {0}."
 	{
 		// 587fac3c
 		// 0 text - Error message
@@ -3066,7 +3066,7 @@ namespace NMain
 		// 6e30a89b
 		:00_Current "Minimise Navigation Pane"
 	}
-	MyPersonalOptions "My personal options..."
+	MyPersonalOptions "Minhas opções pessoais..."
 	{
 		// 5efda16b
 		:00_Current "My personal options..."
@@ -3108,7 +3108,7 @@ namespace NMain
 		// 90e2090f
 		:00_Current "Show network status"
 	}
-	SignOut "Sign out"
+	SignOut "Sair"
 	{
 		// f9288dbe
 		:00_Current "Sign out"
@@ -3509,7 +3509,7 @@ namespace NMain
 			// 97277f2b
 			:00_Current "In person to person chats"
 		}
-		PlaySoundsRooms "In group chats"
+		PlaySoundsRooms "Em chats em grupos"
 		{
 			// f8c76551
 			:00_Current "In group chats"
@@ -3519,12 +3519,12 @@ namespace NMain
 			// 235d6766
 			:00_Current "Portfolio Allocations"
 		}
-		PortfolioAllocationsF8 "Portfolio Allocations (F8)"
+		PortfolioAllocationsF8 "Alocação de Portfólio (F8)"
 		{
 			// 7054e224
 			:00_Current "Portfolio Allocations (F8)"
 		}
-		PortfolioFind "Portfolio Find"
+		PortfolioFind "Encontrar Portfolio"
 		{
 			// c5f3f1ae
 			:00_Current "Portfolio Find"
@@ -3540,17 +3540,17 @@ namespace NMain
 			// 0 text - Project name
 			:00_Current "Project: {0}"
 		}
-		Projects "Projects"
+		Projects "Projetos"
 		{
 			// bd91f439
 			:00_Current "Projects"
 		}
-		Settings "Settings"
+		Settings "Configurações"
 		{
 			// a6037be0
 			:00_Current "Settings"
 		}
-		ShowSection "Show"
+		ShowSection "Mostrar"
 		{
 			// a6c1be65
 			:00_Current "Show"
@@ -4172,7 +4172,7 @@ namespace NMyWork
 		// 922d5c82
 		:00_Current "Scheduled tasks"
 	}
-	TodoListShow "Show"
+	TodoListShow "Mostrar"
 	{
 		// 4aa6b26c
 		:00_Current "Show"
@@ -4453,7 +4453,7 @@ namespace NProjectConnection
 		// 0 text - Name of report
 		:00_Current "{0,cc}"
 	}
-	ReportsTitle "Reports:"
+	ReportsTitle "Relatórios:"
 	{
 		// 75087ac8
 		:00_Current "Reports:"
@@ -4463,7 +4463,7 @@ namespace NProjectConnection
 		// 5f94ef95
 		:00_Current "Groups"
 	}
-	ResourceAllocationViewMenuProjects "Projects"
+	ResourceAllocationViewMenuProjects "Projetos"
 	{
 		// e6125a5f
 		:00_Current "Projects"
@@ -4722,7 +4722,7 @@ namespace NProjectPeriodReport
 		// b9f39fe9
 		:00_Current "Activity type"
 	}
-	ReportRowComment "Comment"
+	ReportRowComment "Comentário"
 	{
 		// d5c1d82d
 		:00_Current "Comment"
@@ -4937,7 +4937,7 @@ namespace NProjects
 		// eb5bedfd
 		:00_Current "It's recommended that you create users before projects. Do you want to continue anyway?"
 	}
-	LimitedVisibility "Limited visibility"
+	LimitedVisibility "Visibilidade limitada"
 	{
 		// 8099e7aa
 		:00_Current "Limited visibility"
@@ -6021,7 +6021,7 @@ namespace NServerAdmin
 			// 0ea85e52
 			:00_Current "(no information available)"
 		}
-		NoSecurityProtocol "None"
+		NoSecurityProtocol "Nenhum"
 		{
 			// 2ea07935
 			:00_Current "None"
@@ -9898,7 +9898,7 @@ namespace NVersionControl
 			// 1502e8a5
 			:00_Current "Places"
 		}
-		Projects "Projects"
+		Projects "Projetos"
 		{
 			// 5063c217
 			:00_Current "Projects"
@@ -10879,7 +10879,7 @@ namespace NAuthIntegration
 namespace NGitIntegration
 // Used in the Git integration dialogs
 {
-	Cancel "Cancel"
+	Cancel "Cancelar"
 	{
 		// 34bf0abe
 		:00_Current "Cancel"
@@ -11200,7 +11200,7 @@ namespace NGitIntegration
 			// c8ef378e
 			:00_Current "Add to Git commit"
 		}
-		Cancel "Cancel"
+		Cancel "Cancelar"
 		{
 			// c05af4fb
 			:00_Current "Cancel"
@@ -11558,7 +11558,7 @@ namespace NPerforceIntegration
 			// 264dc932
 			:00_Current "Column settings"
 		}
-		Columns "Columns"
+		Columns "Colunas"
 		{
 			// 34206ad4
 			:00_Current "Columns"
@@ -12434,7 +12434,7 @@ namespace NJiraIntegration
 	}
 	namespace NClientDllGUI
 	{
-		Abort "Abort"
+		Abort "Abortar"
 		{
 			// f85311ef
 			:00_Current "Abort"
@@ -12752,7 +12752,7 @@ namespace NJiraIntegration
 			// 9e32e36b
 			:00_Current "Override project settings"
 		}
-		Projects "Projects"
+		Projects "Projetos"
 		{
 			// 82935dad
 			:00_Current "Projects"
@@ -14500,12 +14500,12 @@ namespace NPMCContext
 			// f1560835
 			:00_Current "Bug"
 		}
-		BugsAssignedToYou "Bugs assigned to you:"
+		BugsAssignedToYou "Bugs designados para você:"
 		{
 			// 640d2085
 			:00_Current "Bugs assigned to you:"
 		}
-		CommentSettings "Comment"
+		CommentSettings "Comentário"
 		{
 			// 597dacca
 			:00_Current "Comment"
@@ -14575,7 +14575,7 @@ namespace NPMCContext
 }
 namespace NCommentEditor
 {
-	AddAComment "Add a comment..."
+	AddAComment "Adicionar comentário..."
 	{
 		// fd91b0e7
 		:00_Current "Add a comment..."
@@ -14901,7 +14901,7 @@ namespace NURLActionHandler
 			// d96bafe7
 			:00_Current "Go to task in project"
 		}
-		Open "Open"
+		Open "Abrir"
 		{
 			// 768d359f
 			:00_Current "Open"
@@ -15227,7 +15227,7 @@ namespace NDashboards
 		// 2 text - View name
 		:00_Current "{0} ({1} - {2})"
 	}
-	Projects "Projects"
+	Projects "Projetos"
 	{
 		// 2f3f8cd5
 		:00_Current "Projects"
@@ -15344,7 +15344,7 @@ namespace NDashboards
 		// 0 number - Number of weeks
 		:00_Current " [NHelpers::Pluralize($0,'week')]"
 	}
-	WorkRemaining "Work remaining"
+	WorkRemaining "trabalho restante"
 	{
 		// 34aea328
 		:00_Current "Work remaining"
