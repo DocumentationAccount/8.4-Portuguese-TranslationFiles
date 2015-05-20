@@ -87,7 +87,7 @@
 		// b1a0e3c0
 		:00_Current "Travel time"
 	}
-	WorkTimeReportActiviyType "Work"
+	WorkTimeReportActiviyType "Trabalho"
 	{
 		// a65c4489
 		:00_Current "Work"
@@ -337,7 +337,7 @@
 				// 79a0a5ac
 				:00_Current "Pipeline and Kanban tasks - Can start now"
 			}
-			PipelinesKanbansWorkflows "Pipeline, Kanban or Workflow"
+			PipelinesKanbansWorkflows "Pipeline, Kanban ou Workflow"
 			{
 				// 1c7e34b3
 				:00_Current "Pipeline, Kanban or Workflow"
@@ -357,7 +357,7 @@
 				// e66c52fc
 				:00_Current "Priority tag"
 			}
-			ProductBacklogPriority "Product backlog priority"
+			ProductBacklogPriority "Prioridade do backlog do produto"
 			{
 				// 8255b634
 				:00_Current "Product backlog priority"
@@ -842,7 +842,7 @@
 			// 0 text - The name of the column that is not a drop list column
 			:00_Current "Column '{0}' is no multiple choices custom column."
 		}
-		CommittedToX "Committed to {0}"
+		CommittedToX "Designado a {0}"
 		{
 			// e05e751f
 			// 0 text - Default name of sprint type or custom name
@@ -1321,12 +1321,12 @@
 			// 31197f2f
 			:00_Current "(Logged in user)"
 		}
-		Milestone "Release"
+		Milestone "lançamento"
 		{
 			// 3e06bf8e
 			:00_Current "Release"
 		}
-		MilestoneTag "{0,cc} tag"
+		MilestoneTag "sinalizado {0,cc}"
 		{
 			// 3151af0a
 			// 0 text - Default name of milestone type or custom name
@@ -1452,7 +1452,7 @@
 			// 8ec8f6ad
 			:00_Current "On or before date"
 		}
-		Project "project"
+		Project "projecto"
 		{
 			// 714623d5
 			:00_Current "project"
@@ -1479,7 +1479,7 @@
 			// 93915386
 			:00_Current "user"
 		}
-		ResourceGroup "user group"
+		ResourceGroup "Grupo do usuário"
 		{
 			// 5035adf3
 			:00_Current "user group"
@@ -1829,7 +1829,7 @@
 				// 33bc7b56
 				:00_Current "Historic data must only appear once."
 			}
-			Time "Time"
+			Time "Tempo"
 			{
 				// e15ada9f
 				:00_Current "Time"
@@ -1850,7 +1850,7 @@
 
 		namespace NResultSet
 		{
-			NoName "(No name)"
+			NoName "(Nenhum nome)"
 			{
 				// 37d80d1e
 				:00_Current "(No name)"
@@ -1922,7 +1922,7 @@
 				// 012ba0a1
 				:00_Current "Project columns"
 			}
-			Groups "User groups"
+			Groups "Grupos do usuário"
 			{
 				// a44ef002
 				:00_Current "User groups"
@@ -1952,7 +1952,7 @@
 				// c56d2515
 				:00_Current "Sprints / iterations"
 			}
-			Users "Users"
+			Users "Usuários"
 			{
 				// 7a557234
 				:00_Current "Users"
@@ -1978,7 +1978,7 @@
 				// ba45f1c5
 				:00_Current "Projects"
 			}
-			Reports "Reports"
+			Reports "Relatórios"
 			{
 				// fd7a884a
 				:00_Current "Reports"
@@ -2051,7 +2051,7 @@
 				// 869ea020
 				:00_Current "Sprints / Iterations"
 			}
-			Time "Time"
+			Time "Tempo"
 			{
 				// bde2669c
 				:00_Current "Time"
@@ -3089,7 +3089,7 @@
 			// cf5d01fb
 			:00_Current "Priority"
 		}
-		ProductBacklog "product backlog"
+		ProductBacklog "backlog do produto"
 		{
 			// b05e1e2d
 			:00_Current "product backlog"
@@ -3109,12 +3109,12 @@
 			// 27546a07
 			:00_Current "Quality assurance"
 		}
-		Release "release"
+		Release "lançamento"
 		{
 			// e6f3c93a
 			:00_Current "release"
 		}
-		Release2 "Release"
+		Release2 "lançamento"
 		{
 			// c56cf0ac
 			:00_Current "Release"
@@ -3232,7 +3232,7 @@
 			// 4e05c0ab
 			:00_Current "Sprint"
 		}
-		SprintBacklogItem "sprint backlog item"
+		SprintBacklogItem "item do backlog do sprint"
 		{
 			// 2282ef1b
 			:00_Current "sprint backlog item"
@@ -3663,7 +3663,7 @@ namespace NServerInstall
 		// 13155f17
 		:00_Current "Copy Hansoft client to Applications"
 	}
-	Name "Name"
+	Name "Nome"
 	{
 		// 459ca4e1
 		:00_Current "Name"
@@ -3713,7 +3713,7 @@ namespace NServerInstall
 		// dd1ec79a
 		:00_Current "Advanced options - server install location"
 	}
-	ServerPort "Port"
+	ServerPort "Porta"
 	{
 		// 955a8b1c
 		:00_Current "Port"
@@ -4025,7 +4025,7 @@ namespace NServerConfigHelperTool
 		// 0 text - Service name of server this config tool belongs to
 		:00_Current "Hansoft Server Config Tool ({0})"
 	}
-	Hide "Hide"
+	Hide "Esconder"
 	{
 		// 35571e97
 		:00_Current "Hide"

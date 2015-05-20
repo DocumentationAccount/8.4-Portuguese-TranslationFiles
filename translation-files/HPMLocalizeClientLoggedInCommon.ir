@@ -206,7 +206,7 @@ namespace NPMCContext
 				// 453f9dc9
 				:00_Current "Vacation/annual holiday"
 			}
-			Work "Work"
+			Work "trabalho"
 			{
 				// 94157aee
 				:00_Current "Work"

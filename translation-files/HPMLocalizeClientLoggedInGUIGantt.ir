@@ -779,7 +779,7 @@ namespace NActionHistory
 		// 0 text - Custom origin text
 		:00_Current "[$0!='','{0} [Server]','Server']"
 	}
-	ClientOrigin_Unknown "Unknown"
+	ClientOrigin_Unknown "Desconhecido"
 	{
 		// 7fe3d7d1
 		:00_Current "Unknown"
@@ -1353,7 +1353,7 @@ namespace NActionHistory
 		// b02f787f
 		:00_Current "(No severity set)"
 	}
-	NormalSubtype "Scheduled task"
+	NormalSubtype "Tarefa agendada"
 	{
 		// a6be39b0
 		:00_Current "Scheduled task"
@@ -1399,7 +1399,7 @@ namespace NActionHistory
 		// 719ea2be
 		:00_Current "(Nothing set)"
 	}
-	OriginallyCreatedBy "Originally created by"
+	OriginallyCreatedBy "Originalmente criado por"
 	{
 		// 932c24c8
 		:00_Current "Originally created by"
@@ -1480,7 +1480,7 @@ namespace NActionHistory
 		// d30f84f7
 		:00_Current "Pipeline, Kanban or Workflow"
 	}
-	PlannedType "Scheduled task"
+	PlannedType "Tarefa agendada"
 	{
 		// f40aa5bf
 		:00_Current "Scheduled task"
@@ -1495,7 +1495,7 @@ namespace NActionHistory
 		// dae231b9
 		:00_Current "Priority tag"
 	}
-	Project "Project"
+	Project "Projeto"
 	{
 		// ea0ed0b2
 		:00_Current "Project"
@@ -1561,7 +1561,7 @@ namespace NActionHistory
 		// 36a6ab66
 		:00_Current "Pipelines / workflows enabled"
 	}
-	ProjectField_Name "Project name"
+	ProjectField_Name "Nome do projeto"
 	{
 		// e2e8e536
 		:00_Current "Project name"
@@ -2099,7 +2099,7 @@ namespace NActionHistory
 		// d9df535f
 		:00_Current "Statistics sampling"
 	}
-	ServerOrigin_Unknown "Unknown"
+	ServerOrigin_Unknown "Desconhecido"
 	{
 		// d72ff6e9
 		:00_Current "Unknown"
@@ -2292,7 +2292,7 @@ namespace NActionHistory
 		// dd986c15
 		:00_Current "This item was restored from change history"
 	}
-	Time "Time"
+	Time "Tempo"
 	{
 		// 4ea5008a
 		:00_Current "Time"
@@ -2312,7 +2312,7 @@ namespace NActionHistory
 		// 86484399
 		:00_Current "Time zones"
 	}
-	Type "Item type"
+	Type "Tipo do item"
 	{
 		// 4ea544fd
 		:00_Current "Item type"
@@ -2322,7 +2322,7 @@ namespace NActionHistory
 		// 88848138
 		:00_Current "Type of change"
 	}
-	TypePlanned "Item type"
+	TypePlanned "Tipo do item"
 	{
 		// cdd9c27f
 		:00_Current "Item type"
@@ -2404,17 +2404,17 @@ namespace NActionHistory
 		// 51c605a7
 		:00_Current "Magenta"
 	}
-	WallColorOrange "Orange"
+	WallColorOrange "Laranja"
 	{
 		// 7cb24166
 		:00_Current "Orange"
 	}
-	WallColorRed "Red"
+	WallColorRed "Vermelho"
 	{
 		// bbcb9e65
 		:00_Current "Red"
 	}
-	WallColorYellow "Yellow"
+	WallColorYellow "Amarelo"
 	{
 		// 932099e6
 		:00_Current "Yellow"
@@ -2749,7 +2749,7 @@ namespace NAddMoreResources
 		// 931a0530
 		:00_Current "Remove"
 	}
-	ResourceName "Name"
+	ResourceName "Nome"
 	{
 		// 53a6a2ab
 		:00_Current "Name"
@@ -3266,7 +3266,7 @@ namespace NCalender
 		// 094d3b31
 		:00_Current "sat"
 	}
-	Saturday "Saturday"
+	Saturday "Sábado"
 	{
 		// fc9c4e56
 		:00_Current "Saturday"
@@ -3296,7 +3296,7 @@ namespace NCalender
 		// 094d3dbf
 		:00_Current "sun"
 	}
-	Sunday "Sunday"
+	Sunday "Domingo"
 	{
 		// c40a8fbd
 		:00_Current "Sunday"
@@ -3472,7 +3472,7 @@ namespace NColumns
 		// 91c102ea
 		:00_Current "Category"
 	}
-	CommittedToX "Committed to {0}"
+	CommittedToX "Designado a {0}"
 	{
 		// ee876c2d
 		// 0 text - Default name of sprint type or custom name
@@ -3621,7 +3621,7 @@ namespace NColumns
 		// 0 text - Default name of sprint or backlog type or custom name
 		:00_Current "{0,cc} priority"
 	}
-	XTag "{0,cc} tag"
+	XTag "sinalizado {0,cc}"
 	{
 		// cdad0e40
 		// 0 text - Default name of release type or custom name
@@ -3881,6 +3881,7 @@ namespace NConfigPipelineTool
 		// 5ebc26cc
 		// 0 text - Default name of quality assurance or custom name
 		:00_Current "You cannot delete the the default {0} workflow."
+		
 	}
 	YouCannotSetTheDefaultQAWorkflowToPlanningOnly "You cannot set the default {0} workflow to planning only."
 	{
@@ -4653,7 +4654,7 @@ namespace NDocumentAttachments
 		// 6a2f6ce9
 		:00_Current "Save as"
 	}
-	SaveAsMenu "Save as"
+	SaveAsMenu "Salvar como"
 	{
 		// 9ca9aede
 		:00_Current "Save as"
@@ -4964,7 +4965,7 @@ namespace NFilterWindow
 		// fb72a7a1
 		:00_Current "Critical path"
 	}
-	Deleted "To be deleted"
+	Deleted "Para ser apagado"
 	{
 		// 417e4160
 		:00_Current "To be deleted"
@@ -5135,7 +5136,7 @@ namespace NFilterWindow
 		// 01db1af7
 		:00_Current "Not allocated now"
 	}
-	NotAssigned "Not assigned"
+	NotAssigned "Não designado"
 	{
 		// 0c6d1c88
 		:00_Current "Not assigned"
@@ -5599,7 +5600,7 @@ namespace NFloatingSelection
 		// bf8ab590
 		:00_Current "Find projects"
 	}
-	FindResourcesGroups "Find people"
+	FindResourcesGroups "Encontrar pessoas"
 	{
 		// b43fc1e1
 		:00_Current "Find people"
@@ -5658,7 +5659,7 @@ namespace NFloatingSelection
 		// 530567d5
 		:00_Current "Milestone/release"
 	}
-	MilestoneTag "{0,cc} tag"
+	MilestoneTag "sinalizado {0,cc}"
 	{
 		// 69d645f1
 		// 0 text - Default name of milestone type or custom name
@@ -6120,7 +6121,7 @@ namespace NGeneralInfoPopup
 		// be68337f
 		:00_Current "Close"
 	}
-	DontShowThisMessageAgain "Don't show this message again"
+	DontShowThisMessageAgain "Não mostrar esta mensagem novamente"
 	{
 		// 22cf759c
 		:00_Current "Don't show this message again"
@@ -6698,7 +6699,7 @@ namespace NHistorySaveOccurence
 		// 76cdfd0b
 		:00_Current "Monday"
 	}
-	Never "Never"
+	Never "Nunca"
 	{
 		// fbe47143
 		:00_Current "Never"
@@ -7939,7 +7940,7 @@ namespace NPrint
 		// 857dd339
 		:00_Current "Show"
 	}
-	StartPrint "Start"
+	StartPrint "Inicio"
 	{
 		// 70de73b3
 		:00_Current "Start"
@@ -8350,7 +8351,7 @@ namespace NReport
 			// 247c44c4
 			:00_Current "Ok"
 		}
-		RemoveResources "Remove users"
+		RemoveResources "Remover usuários"
 		{
 			// bc5faa13
 			:00_Current "Remove users"
@@ -8459,7 +8460,7 @@ namespace NChartWizard
 		// 10dc08a0
 		:00_Current "Measure"
 	}
-	Name "Name"
+	Name "Nome"
 	{
 		// 976f752f
 		:00_Current "Name"
@@ -8533,7 +8534,7 @@ namespace NReportFunctions
 		// 2e891ee3
 		:00_Current "Refresh this report\tF5"
 	}
-	ReportColumnName "Name"
+	ReportColumnName "Nome"
 	{
 		// 13ff1eeb
 		:00_Current "Name"
@@ -9294,7 +9295,7 @@ namespace NTimeReporting
 		// dc16925d
 		:00_Current "Previous week"
 	}
-	Project "Project"
+	Project "Projeto"
 	{
 		// 4e473b8b
 		:00_Current "Project"
@@ -9347,7 +9348,7 @@ namespace NTimeReporting
 			// d063c5ff
 			:00_Current "Description"
 		}
-		Project "Project"
+		Project "Projeto"
 		{
 			// b1b4f7f2
 			:00_Current "Project"
@@ -9585,7 +9586,7 @@ namespace NTimeReporting
 			// d621c072
 			:00_Current "Total"
 		}
-		UnitQuantity "Unit & quantity"
+		UnitQuantity "Unidade & quantidade"
 		{
 			// 691865fb
 			:00_Current "Unit & quantity"
@@ -10266,7 +10267,7 @@ namespace NWallFunctions
 			// 7153e829
 			:00_Current "No priority"
 		}
-		NoResourceSet "Not assigned"
+		NoResourceSet "Não designado"
 		{
 			// 317dd3bb
 			:00_Current "Not assigned"
@@ -10546,7 +10547,7 @@ namespace NWindowMainToolbarCommands
 		// b938eaa3
 		:00_Current "My trends..."
 	}
-	PipelinesKanbansAndWorkflows "Pipelines, kanbans and workflows"
+	PipelinesKanbansAndWorkflows "Pipelines, kanbans e workflows"
 	{
 		// 1ffe9135
 		:00_Current "Pipelines, kanbans and workflows"
@@ -10567,7 +10568,7 @@ namespace NWindowMainToolbarCommands
 		// 0 text - Default name of backlog type or custom name
 		:00_Current "Project history auto-save options (for both schedule and {0})"
 	}
-	ReportsAndTrends "Reports"
+	ReportsAndTrends "Relatórios"
 	{
 		// df385b1f
 		:00_Current "Reports"

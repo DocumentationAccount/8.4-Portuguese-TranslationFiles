@@ -139,7 +139,7 @@ namespace NTextControl
 		// 3f6a7f85
 		:00_Current "Paste"
 	}
-	Redo "Redo"
+	Redo "Refaça"
 	{
 		// 6e8842f2
 		:00_Current "Redo"
@@ -149,7 +149,7 @@ namespace NTextControl
 		// b8bce3a1
 		:00_Current "Select All"
 	}
-	Undo "Undo"
+	Undo "Desfazer"
 	{
 		// 6e8a0e5e
 		:00_Current "Undo"

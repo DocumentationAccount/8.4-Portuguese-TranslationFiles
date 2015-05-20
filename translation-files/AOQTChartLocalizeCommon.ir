@@ -11,7 +11,7 @@ namespace NChartConfig
 		// bc898dfb
 		:00_Current "Delete"
 	}
-	ChartRename "Rename"
+	ChartRename "Renomear"
 	{
 		// bc89dda5
 		:00_Current "Rename"
@@ -96,7 +96,7 @@ namespace NChartConfig
 		// 8697e325
 		:00_Current "No options available"
 	}
-	Options "Options"
+	Options "Opções"
 	{
 		// 8b0dfd87
 		:00_Current "Options"
@@ -269,7 +269,7 @@ namespace NDashboard
 		// 8397367d
 		:00_Current "Export"
 	}
-	HidePage "Hide"
+	HidePage "Esconder"
 	{
 		// eb94f472
 		:00_Current "Hide"
@@ -284,7 +284,7 @@ namespace NDashboard
 		// 92500f19
 		:00_Current "Layout"
 	}
-	Name "Name"
+	Name "Nome"
 	{
 		// dc2bf2bc
 		:00_Current "Name"
@@ -304,7 +304,7 @@ namespace NDashboard
 		// 211c7afb
 		:00_Current "Rename page"
 	}
-	RenamePage "Rename"
+	RenamePage "Renomear"
 	{
 		// c5a67a30
 		:00_Current "Rename"

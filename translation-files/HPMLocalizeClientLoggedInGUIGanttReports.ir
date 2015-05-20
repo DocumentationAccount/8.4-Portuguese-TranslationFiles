@@ -481,7 +481,7 @@ namespace NEditReport
 			// 1a67c15e
 			:00_Current "(Items with this keyword)"
 		}
-		ItemsWithThisKeyword2 "Items with this keyword"
+		ItemsWithThisKeyword2 "(Itens com esta palavra-chave)"
 		{
 			// 675fed50
 			:00_Current "Items with this keyword"
@@ -566,7 +566,7 @@ namespace NEditReport
 			// 7c823c7e
 			:00_Current "Scope name:"
 		}
-		SelectCondition "Select condition: "
+		SelectCondition "Selecionar condição: "
 		{
 			// b3db7a8a
 			:00_Current "Select condition: "

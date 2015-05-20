@@ -104,7 +104,7 @@ namespace NThemes
 		// c1115bc8
 		:00_Current "Green"
 	}
-	Red "Red"
+	Red "Vermelho"
 	{
 		// ee4fe232
 		:00_Current "Red"
@@ -249,7 +249,7 @@ namespace NTextSizes
 		// 433177cf
 		:00_Current "Large"
 	}
-	Medium	"Medium"
+	Medium	"Médio"
 	{
 		// abf65a05
 		:00_Current "Medium"
@@ -269,7 +269,7 @@ namespace NImageSizes
 		// 0 text - (Recommended) on active value
 		:00_Current "Large{0}"
 	}
-	Medium "Medium{0}"
+	Medium "Médio{0}"
 	{
 		// 8e496643
 		// 0 text - (Recommended) on active value
@@ -368,7 +368,7 @@ namespace NExports
 
 namespace NComputationEngine
 {
-	Value "Value"
+	Value "Valor"
 	{
 		// 3ad832f7
 		:00_Current "Value"

@@ -147,12 +147,12 @@
 		// 0 text - A username
 		:00_Current "You must specify a password for user account {0}."
 	}
-	YourName "User name"
+	YourName "Nome do usuário"
 	{
 		// 90a27fef
 		:00_Current "User name"
 	}
-	YourPassword "Password"
+	YourPassword "Senha"
 	{
 		// 0471fc61
 		:00_Current "Password"
@@ -252,7 +252,7 @@ namespace NClientLoginSecurity
 		// b73a0755
 		:00_Current "Manage trusted server certificates"
 	}
-	RemoveCertificate "Remove"
+	RemoveCertificate "Remover"
 	{
 		// 2ea6fbc7
 		:00_Current "Remove"
@@ -316,7 +316,7 @@ namespace NPasswordExpired
 		// 4078b0b1
 		:00_Current "Back"
 	}
-	NewPassword "New password"
+	NewPassword "Nova senha"
 	{
 		// dfe448e7
 		:00_Current "New password"
@@ -669,7 +669,7 @@ namespace NClientMain
 		// 14e05448
 		:00_Current "Disconnected from server."
 	}
-	Exit "Exit"
+	Exit "Sair"
 	{
 		// 1eba2224
 		:00_Current "Exit"
@@ -840,7 +840,7 @@ namespace NClientMain
 		// 36840a74
 		:00_Current "Logged out"
 	}
-	LoggingIn "Logging in..."
+	LoggingIn "Conectando..."
 	{
 		// 36d248a8
 		:00_Current "Logging in..."
@@ -1304,7 +1304,7 @@ namespace NLicenseInformationPopupLogin
 		// 7a03bc5d
 		:00_Current "Login not permitted"
 	}
-	HansoftProjectManagerLicenseInformation "Hansoft Licence Information"
+	HansoftProjectManagerLicenseInformation "Hansoft Informação de licença"
 	{
 		// eee39c8a
 		:00_Current "Hansoft Licence Information"

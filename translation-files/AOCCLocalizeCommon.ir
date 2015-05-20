@@ -478,7 +478,7 @@ namespace NAOTime
 		// 1ede9a70
 		:00_Current "m"
 	}
-	Monday "Monday"
+	Monday "Segunda-feira"
 	{
 		// 1edef22c
 		:00_Current "Monday"
@@ -538,7 +538,7 @@ namespace NAOTime
 		// 2be3816e
 		:00_Current "s"
 	}
-	Saturday "Saturday"
+	Saturday "Sábado"
 	{
 		// b57b7251
 		:00_Current "Saturday"
@@ -563,7 +563,7 @@ namespace NAOTime
 		// 2d4a213c
 		:00_Current "s"
 	}
-	Sunday "Sunday"
+	Sunday "Domingo"
 	{
 		// 2d4a78f8
 		:00_Current "Sunday"
@@ -578,7 +578,7 @@ namespace NAOTime
 		// 2eb7e1f7
 		:00_Current "t"
 	}
-	Thursday "Thursday"
+	Thursday "Quinta-feira"
 	{
 		// beb45bf8
 		:00_Current "Thursday"
@@ -620,7 +620,7 @@ namespace NAOTime
 		// 2f9a5a74
 		:00_Current "t"
 	}
-	Tuesday "Tuesday"
+	Tuesday "Terça-feira"
 	{
 		// 22f93c03
 		:00_Current "Tuesday"
@@ -635,7 +635,7 @@ namespace NAOTime
 		// 3577bfe6
 		:00_Current "w"
 	}
-	Wednesday "Wednesday"
+	Wednesday "Quarta-feira"
 	{
 		// 0707f0c8
 		:00_Current "Wednesday"

@@ -126,7 +126,7 @@ namespace NAgileSetup
 		// c72c9317
 		:00_Current "Show days as hours"
 	}
-	IdealEstimation "Estimated days"
+	IdealEstimation "Dias estimados"
 	{
 		// 06eb67fa
 		:00_Current "Estimated days"
@@ -173,7 +173,7 @@ namespace NAgileSetup
 		// 0 text - Default name of sprint type or custom name
 		:00_Current "{0,cc} prediction"
 	}
-	UserStories "User stories"
+	UserStories "Historias de usuário"
 	{
 		// 6372dc86
 		:00_Current "User stories"
@@ -355,7 +355,7 @@ namespace NDialog
 		// da03f98e
 		:00_Current "More"
 	}
-	MoreCustomisation "More"
+	MoreCustomisation "Mais"
 	{
 		// bf166a80
 		:00_Current "More"
@@ -520,7 +520,7 @@ namespace NPathSetup
 		// 6f7758b6
 		:00_Current "Show whole path"
 	}
-	SubProjectPath "Sub project path"
+	SubProjectPath "Caminho do sub-projeto"
 	{
 		// 7af5a397
 		:00_Current "Sub project path"
@@ -753,7 +753,7 @@ namespace NProjectColumns
 			// 786a4e2b
 			:00_Current "Multi-line text (edited in activity details window)"
 		}
-		Name "Name"
+		Name "Nome"
 		{
 			// 694a2ce3
 			:00_Current "Name"
@@ -773,7 +773,7 @@ namespace NProjectColumns
 			// 4a9dce5c
 			:00_Current "Ok"
 		}
-		Options "Options"
+		Options "Opções"
 		{
 			// e621880e
 			:00_Current "Options"
@@ -813,7 +813,7 @@ namespace NProjectColumns
 			// 19b5f9e9
 			:00_Current "The name of the column must be at least 3 characters long"
 		}
-		Type "Type"
+		Type "Tipo"
 		{
 			// 694ddda4
 			:00_Current "Type"
@@ -966,7 +966,7 @@ namespace NProjectColumns
 				// 0df0945a
 				:00_Current "Item icon"
 			}
-			ItemName "Item name"
+			ItemName "Nome do item"
 			{
 				// 0df34972
 				:00_Current "Item name"
@@ -1076,7 +1076,7 @@ namespace NProjectColumns
 				// 05dd8e7e
 				:00_Current "Report"
 			}
-			Step "Step"
+			Step "Passo"
 			{
 				// 9d46941e
 				:00_Current "Step"

@@ -1319,7 +1319,7 @@ namespace NWorkflow
 			// 5cf4c2a9
 			:00_Current "hours"
 		}
-		MaxItems "items"
+		MaxItems "itens"
 		{
 			// 5d09545a
 			:00_Current "items"
@@ -2283,7 +2283,7 @@ namespace NWorkflow
 			// 0 text - Name of workflow
 			:00_Current "Workflow {0}"
 		}
-		XMLFilesX "XML files {0}"
+		XMLFilesX "Arquivos XML {0}"
 		{
 			// 13b7a2c7
 			// 0 text - .xml extension (shown in XML save as dialog)

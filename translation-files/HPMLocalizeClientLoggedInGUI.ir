@@ -85,7 +85,7 @@ namespace NActivityDetailsWindow
 		// b714a919
 		:00_Current "(No name)"
 	}
-	OpenFolderAndGoToTheFileOnMyComputer "Open folder and go to the file on my computer"
+	OpenFolderAndGoToTheFileOnMyComputer "Abrir a pasta e ir para o arquivo em meu computador"
 	{
 		// d3e51168
 		:00_Current "Open folder and go to the file on my computer"
@@ -361,7 +361,7 @@ namespace NActivityDetailsWindow
 			// 2 text - user name
 			:00_Current "On {0} - {1} {2} wrote:"
 		}
-		PostComment "Post comment"
+		PostComment "Publicar comentário"
 		{
 			// a9b125ab
 			:00_Current "Post comment"
@@ -452,7 +452,7 @@ namespace NActivityDetailsWindow
 			// a0613cbb
 			:00_Current "Hide tab"
 		}
-		IdealDays "Estimated days"
+		IdealDays "Dias estimados"
 		{
 			// 5a1eab3a
 			:00_Current "Estimated days"
@@ -462,12 +462,12 @@ namespace NActivityDetailsWindow
 			// 9e44111a
 			:00_Current "Estimated hours"
 		}
-		LinkedTo "Linked to"
+		LinkedTo "Ligado a"
 		{
 			// 7559aec4
 			:00_Current "Linked to"
 		}
-		More "More"
+		More "Mais"
 		{
 			// b69f123d
 			:00_Current "More"
@@ -507,7 +507,7 @@ namespace NActivityDetailsWindow
 			// 2a8de650
 			:00_Current "Pipeline / Workflow"
 		}
-		Priority "Priority"
+		Priority "Prioridade"
 		{
 			// cfd2f64c
 			:00_Current "Priority"
@@ -574,7 +574,7 @@ namespace NActivityDetailsWindow
 			// d1852c5e
 			:00_Current "Attach or drag Files here"
 		}
-		AttachFile "Attach files"
+		AttachFile "Anexar arquivos"
 		{
 			// 6b3daee9
 			:00_Current "Attach files"
@@ -732,7 +732,7 @@ namespace NActivityDetailsWindow
 			// 1e421581
 			:00_Current "Open folder and go to the file on my computer"
 		}
-		Organize "Organise"
+		Organize "Organizar"
 		{
 			// 8104c853
 			:00_Current "Organise"
@@ -759,7 +759,7 @@ namespace NActivityDetailsWindow
 			// 0 text - Document name
 			:00_Current "Preview of {0}"
 		}
-		Remove "Remove"
+		Remove "Remover"
 		{
 			// 2e68dd62
 			:00_Current "Remove"
@@ -864,7 +864,7 @@ namespace NAddProjectMembers
 		// c2964984
 		:00_Current "Remove user(s)"
 	}
-	Resources "Users"
+	Resources "Usuários"
 	{
 		// 0ec885f6
 		:00_Current "Users"
@@ -1035,7 +1035,7 @@ namespace NAdministration
 		// 4a0bddc0
 		:00_Current "Projects"
 	}
-	Resources "Users"
+	Resources "Usuários"
 	{
 		// b5e4de91
 		:00_Current "Users"
@@ -2876,7 +2876,7 @@ namespace NLicenseInformation
 		// 7c805762
 		:00_Current "Maximum height and width (in pixels) of thumbnails for images in comments. Zero means no thumbnails are generated."
 	}
-	UpgradeLicense "Upgrade licence"
+	UpgradeLicense "Atualizar licença"
 	{
 		// 779f7c24
 		:00_Current "Upgrade licence"
@@ -2980,12 +2980,12 @@ namespace NMain
 		// 0 text - Error message
 		:00_Current "Could not get Project History. The error was: {0}."
 	}
-	CreatingUserInterface "Logging in..."
+	CreatingUserInterface "Conectando..."
 	{
 		// 06b9b4d2
 		:00_Current "Logging in..."
 	}
-	DashboardView "Overview"
+	DashboardView "Visão Geral"
 	{
 		// 9c918538
 		:00_Current "Overview"
@@ -2995,23 +2995,23 @@ namespace NMain
 		// 6c7b3fe2
 		:00_Current "Exit"
 	}
-	Failed "failed"
+	Failed "falhou"
 	{
 		// d1644ada
 		:00_Current "failed"
 	}
-	FileNotFound "file not found"
+	FileNotFound "Arquivo não encontrado"
 	{
 		// 5f484362
 		:00_Current "file not found"
 	}
-	FinalizingUserInterface "Finalising user interface..."
+	FinalizingUserInterface "Finalizando interface do usuário..."
 
 	{
 		// 9c54e2f0
 		:00_Current "Finalising user interface..."
 	}
-	HansoftHelpMenuManual "Hansoft Help Manual"
+	HansoftHelpMenuManual "Manual de Ajuda Hansoft"
 	{
 		// 3ccafb64
 		:00_Current "Hansoft Help Manual"
@@ -3021,7 +3021,7 @@ namespace NMain
 		// d2d0b0e3
 		:00_Current "Contact Support"
 	}
-	HansoftHelpMenuTrainigVideos "Hansoft Training Videos"
+	HansoftHelpMenuTrainigVideos "Vídeos de Treinamento Hansoft"
 	{
 		// ef032c5e
 		:00_Current "Hansoft Training Videos"
@@ -3036,12 +3036,12 @@ namespace NMain
 		// 50944019
 		:00_Current "Hansoft Client"
 	}
-	HansoftSystemAdministrationGuide "Hansoft System Admin Guide"
+	HansoftSystemAdministrationGuide "Guia de Administrador de Sistema Hansoft"
 	{
 		// 2166baa1
 		:00_Current "Hansoft System Admin Guide"
 	}
-	Help "Help"
+	Help "Ajuda"
 	{
 		// 57a5575e
 		:00_Current "Help"
@@ -3056,12 +3056,12 @@ namespace NMain
 		// e05f03af
 		:00_Current "Sign out"
 	}
-	MaximizePane "Maximise Navigation Pane"
+	MaximizePane "Maximizar Painel de Navegação"
 	{
 		// 6bb4a9dd
 		:00_Current "Maximise Navigation Pane"
 	}
-	MinimizePane "Minimise Navigation Pane"
+	MinimizePane "Minimizar Painel de Navegação"
 	{
 		// 6e30a89b
 		:00_Current "Minimise Navigation Pane"
@@ -3071,17 +3071,17 @@ namespace NMain
 		// 5efda16b
 		:00_Current "My personal options..."
 	}
-	Navigation "Navigation"
+	Navigation "Navegação"
 	{
 		// 6b553b25
 		:00_Current "Navigation"
 	}
-	NewConnection "New connection"
+	NewConnection "Nova conexão"
 	{
 		// c2717eef
 		:00_Current "New connection"
 	}
-	NormalizePane "Set Navigation Pane to normal size"
+	NormalizePane "Configurar Painel de Navegação para o tamanho normal"
 	{
 		// 33b708aa
 		:00_Current "Set Navigation Pane to normal size"
@@ -3093,12 +3093,12 @@ namespace NMain
 		// 1 text - Optional Network statistics
 		:00_Current "Online {0}{1}"
 	}
-	ProcessingProjects "Processing projects..."
+	ProcessingProjects "Processando projetos..."
 	{
 		// c84edb5c
 		:00_Current "Processing projects..."
 	}
-	ServerBusy "Server busy"
+	ServerBusy "Servidor ocupado"
 	{
 		// 8597af0f
 		:00_Current "Server busy"
@@ -3127,7 +3127,7 @@ namespace NMain
 		// 2 text - The version of the hansoft server/client
 		:00_Current "Hansoft - {0} - {1} - {2}"
 	}
-	Succeeded "succeeded"
+	Succeeded "foi bem sucedido"
 	{
 		// ac8c5c3a
 		:00_Current "succeeded"
@@ -3335,7 +3335,7 @@ namespace NMain
 			// cd6281c6
 			:00_Current "Do not show this welcome screen again"
 		}
-		PleaseContact "Please contact support@hansoft.com if you encounter any problems"
+		PleaseContact "Por favor contate support@hansoft.se se tiver algum problema"
 		{
 			// 06f68343
 			:00_Current "Please contact support@hansoft.com if you encounter any problems"
@@ -3360,7 +3360,7 @@ namespace NMain
 			// 4371d300
 			:00_Current "Web presentation of new Hansoft 7 features with screenshots"
 		}
-		WelcomeToHansoftSixFive "Welcome to Hansoft 8"
+		WelcomeToHansoftSixFive "Bem Vindo ao Hansoft 8"
 		{
 			// 4987fb1d
 			:00_Current "Welcome to Hansoft 8"
@@ -3369,7 +3369,7 @@ namespace NMain
 	namespace NSync
     // Strings for main top tabs.
 	{
-		AdministrationF7 "{0} Administration (F7)"
+		AdministrationF7 "{0} Administração (F7)"
 		{
 			// 9ea5d1f2
 			// 0 text - Database name
@@ -3380,12 +3380,12 @@ namespace NMain
 			// ec0eed62
 			:00_Current "App badge counter"
 		}
-		BadgeCountGroup "Add unread messages from groups"
+		BadgeCountGroup "Adicionar mensagens não lidas de grupos"
 		{
 			// 69099058
 			:00_Current "Add unread messages from groups"
 		}
-		BadgeCountPerson "Add unread messages from users"
+		BadgeCountPerson "Adicionar mensagens não lidas de usuários"
 		{
 			// 9e506762
 			:00_Current "Add unread messages from users"
@@ -3395,17 +3395,17 @@ namespace NMain
 			// 45376b2f
 			:00_Current "Chat"
 		}
-		ChatBehaviour "Undocked chats"
+		ChatBehaviour "Chats Flutuantes"
 		{
 			// aa3e6974
 			:00_Current "Undocked chats"
 		}
-		ChatGroup "Groups"
+		ChatGroup "Grupos"
 		{
 			// 2a79f73c
 			:00_Current "Groups"
 		}
-		ChatOffline "Offline"
+		ChatOffline "Off-line"
 		{
 			// fc00d992
 			:00_Current "Offline"
@@ -3415,7 +3415,7 @@ namespace NMain
 			// 8c17e9b4
 			:00_Current "Online"
 		}
-		ChatRooms "Chat rooms"
+		ChatRooms "Salas de Chat"
 		{
 			// 2b3f5e9f
 			:00_Current "Chat rooms"
@@ -3425,12 +3425,12 @@ namespace NMain
 			// 8dffbbea
 			:00_Current "Dashboards"
 		}
-		DoNotDisturb "Do not disturb"
+		DoNotDisturb "Não perturbe"
 		{
 			// b32d63d0
 			:00_Current "Do not disturb"
 		}
-		Documents "Documents"
+		Documents "Documentos"
 		{
 			// b3b55a61
 			:00_Current "Documents"
@@ -3448,12 +3448,12 @@ namespace NMain
 			// 1 decimal - Percent complete
 			:00_Current "{1,fe1}% {0} (downloading)"
 		}
-		FindPeople "Find people"
+		FindPeople "Encontrar pessoas"
 		{
 			// 3e1c2035
 			:00_Current "Find people"
 		}
-		GettingOldMessages "Retrieving old messages"
+		GettingOldMessages "Recuperar mensagens antigas"
 		{
 			// 501651f8
 			:00_Current "Retrieving old messages"
@@ -3469,17 +3469,17 @@ namespace NMain
 			// 18c61fbc
 			:00_Current "Exit"
 		}
-		HansoftHelp "Help"
+		HansoftHelp "Ajuda"
 		{
 			// 18c7746b
 			:00_Current "Help"
 		}
-		HansoftOptions "Options"
+		HansoftOptions "Opções"
 		{
 			// ac4cdcee
 			:00_Current "Options"
 		}
-		HideSection "Hide"
+		HideSection "Esconder"
 		{
 			// 51d6b2de
 			:00_Current "Hide"
@@ -3489,22 +3489,22 @@ namespace NMain
 			// 8940a7d8
 			:00_Current "My to do"
 		}
-		MyWorkF5 "My Work (F5)"
+		MyWorkF5 "Meu Trabalho (F5)"
 		{
 			// dc0a0713
 			:00_Current "My Work (F5)"
 		}
-		OpenChatsStaysOnTop "Stay on top by default"
+		OpenChatsStaysOnTop "Definir como Sempre Visível"
 		{
 			// 02d93198
 			:00_Current "Stay on top by default"
 		}
-		OpenChatsUndocked "Open chats undocked"
+		OpenChatsUndocked "Abrir chats flutuantes"
 		{
 			// bd390aa1
 			:00_Current "Open chats undocked"
 		}
-		PlaySoundsPersons "In person to person chats"
+		PlaySoundsPersons "Em chats privativos"
 		{
 			// 97277f2b
 			:00_Current "In person to person chats"
@@ -3514,7 +3514,7 @@ namespace NMain
 			// f8c76551
 			:00_Current "In group chats"
 		}
-		PortfolioAllocations "Portfolio Allocations"
+		PortfolioAllocations "Alocação de Portfólio"
 		{
 			// 235d6766
 			:00_Current "Portfolio Allocations"
@@ -3555,22 +3555,22 @@ namespace NMain
 			// a6c1be65
 			:00_Current "Show"
 		}
-		ThisQAAccountIsNotConnectedToAnyProject "(No projects available)"
+		ThisQAAccountIsNotConnectedToAnyProject "(Nenhum projeto disponível)"
 		{
 			// eb74f1e8
 			:00_Current "(No projects available)"
 		}
-		ToDoList "To do list"
+		ToDoList "Lista To do "
 		{
 			// 23a99ce1
 			:00_Current "To do list"
 		}
-		UnnamedDatabase "(Unnamed database)"
+		UnnamedDatabase "(Banco de dados sem nome)"
 		{
 			// 110e8d4c
 			:00_Current "(Unnamed database)"
 		}
-		UseAlternativeEnterKeyBehaviour "Enter key sends message"
+		UseAlternativeEnterKeyBehaviour "Tecla Enter envia a mensagem"
 		{
 			// 59106487
 			:00_Current "Enter key sends message"
@@ -3936,7 +3936,7 @@ namespace NMainHelpers
 namespace NMessageBox
 // Button labels for confirm dialogs.
 {
-	DontShowThisMessageAgain "Don't show this message again"
+	DontShowThisMessageAgain "Não mostrar esta mensagem novamente"
 	{
 		// 33298b51
 		:00_Current "Don't show this message again"
@@ -4072,7 +4072,7 @@ namespace NMyWork
 		// 1d42d232
 		:00_Current "Priority changes"
 	}
-	NewsFeedOptionsShowWorkflwoStatus "Workflow status"
+	NewsFeedOptionsShowWorkflwoStatus "Status do workflow"
 	{
 		// df217036
 		:00_Current "Workflow status"
@@ -4152,12 +4152,12 @@ namespace NMyWork
 		// aced8929
 		:00_Current "Timeline"
 	}
-	TodoListNew "New"
+	TodoListNew "Novo"
 	{
 		// acedb1b5
 		:00_Current "New"
 	}
-	TodoListOptions "Options"
+	TodoListOptions "Opções"
 	{
 		// 51d1b0f7
 		:00_Current "Options"
@@ -4211,7 +4211,7 @@ namespace NMyWork
 		// b9bbcb73
 		:00_Current "Timesheet"
 	}
-	TodoListTitle "To do list"
+	TodoListTitle "Lista To do"
 	{
 		// 9f8fb90d
 		:00_Current "To do list"
@@ -4425,7 +4425,7 @@ namespace NProjectConnection
 		// 1 text - Keyboard shortcut name
 		:00_Current "Opens {0,cc} {1}"
 	}
-	ProductBacklogPrio "Priority"
+	ProductBacklogPrio "Prioridade"
 	{
 		// a15888c5
 		:00_Current "Priority"
@@ -4458,7 +4458,7 @@ namespace NProjectConnection
 		// 75087ac8
 		:00_Current "Reports:"
 	}
-	ResourceAllocationViewMenuGroups "Groups"
+	ResourceAllocationViewMenuGroups "Grupos"
 	{
 		// 5f94ef95
 		:00_Current "Groups"
@@ -4468,7 +4468,7 @@ namespace NProjectConnection
 		// e6125a5f
 		:00_Current "Projects"
 	}
-	ResourceAllocationViewMenuUsers "Users"
+	ResourceAllocationViewMenuUsers "Usuários"
 	{
 		// 78404b67
 		:00_Current "Users"
@@ -4483,7 +4483,7 @@ namespace NProjectConnection
 		// 4812dc02
 		:00_Current "Gantt Schedule"
 	}
-	SprintPriority "{0,cc} priority"
+	SprintPriority "{0,cc} Prioridade"
 	{
 		// 66f419b9
 		// 0 text - Custom sprint name
@@ -4671,7 +4671,7 @@ namespace NProjectPeriodReport
 		// 9a7bf696
 		:00_Current "Export to spreadsheet (.xlsx)"
 	}
-	ReportExportSpreadsheet "Spreadsheet {0}"
+	ReportExportSpreadsheet "Planilha {0}"
 	{
 		// 730a771c
 		// 0 text - .xlsx file type
@@ -4742,7 +4742,7 @@ namespace NProjectPeriodReport
 		// dd96fa71
 		:00_Current "End"
 	}
-	ReportRowProject "Project"
+	ReportRowProject "Projeto"
 	{
 		// c598f251
 		:00_Current "Project"
@@ -4752,12 +4752,12 @@ namespace NProjectPeriodReport
 		// 907d70a5
 		:00_Current "Rows"
 	}
-	ReportRowStart "Start"
+	ReportRowStart "Inicio"
 	{
 		// a03ffe68
 		:00_Current "Start"
 	}
-	ReportRowTask "Task"
+	ReportRowTask "Tarefa"
 	{
 		// 907e4d4d
 		:00_Current "Task"
@@ -5004,7 +5004,7 @@ namespace NProjects
 		// 0 text - Project name
 		:00_Current "Settings for members of {0}"
 	}
-	XMLFilesX "XML files {0}"
+	XMLFilesX "Arquivos XML {0}"
 	{
 		// 16d2da76
 		// 0 text - .xml file extension
@@ -5061,7 +5061,7 @@ namespace NResourceAllocationView
 		// 8d11511d
 		:00_Current "Projects"
 	}
-	ShowAllResourceGroups "Groups"
+	ShowAllResourceGroups "Grupos"
 	{
 		// e47e32bb
 		:00_Current "Groups"
@@ -6001,7 +6001,7 @@ namespace NServerAdmin
 			// bc362ebb
 			:00_Current "My server requires authentication"
 		}
-		Name "Name"
+		Name "Nome"
 		{
 			// 47971ecf
 			:00_Current "Name"
@@ -6011,7 +6011,7 @@ namespace NServerAdmin
 			// 5cd246c5
 			:00_Current "Name appearing on sent e-mail"
 		}
-		NewPassword "New password"
+		NewPassword "Nova senha"
 		{
 			// 32fb27cb
 			:00_Current "New password"
@@ -6036,7 +6036,7 @@ namespace NServerAdmin
 			// 0d8efb01
 			:00_Current "From operating system"
 		}
-		Options "Options"
+		Options "Opções"
 		{
 			// 3596427a
 			:00_Current "Options"
@@ -6267,7 +6267,7 @@ namespace NServerAdmin
 			// 329bdc76
 			:00_Current "Hansoft Client"
 		}
-		Help "Help"
+		Help "Ajuda"
 		{
 			// 5936785b
 			:00_Current "Help"
@@ -6803,7 +6803,7 @@ namespace NServerAdmin
 			// 0 integer - Minute
 			:00_Current "Minute {0} of every quarter of an hour"
 		}
-		Mondays "Mondays"
+		Mondays "Segunda-feiras"
 		{
 			// 4b0a4788
 			:00_Current "Mondays"
@@ -6858,7 +6858,7 @@ namespace NServerAdmin
 			// c984bb17
 			:00_Current "Not responding"
 		}
-		Offline "Offline"
+		Offline "Off-line"
 		{
 			// cf7412f0
 			:00_Current "Offline"
@@ -6905,7 +6905,7 @@ namespace NServerAdmin
 			// 98fdc2a3
 			:00_Current "Only reset transaction log (cannot be recovered)"
 		}
-		Options "Options"
+		Options "Opções"
 		{
 			// e7c374b9
 			:00_Current "Options"
@@ -6967,12 +6967,12 @@ namespace NServerAdmin
 			// c1965470
 			:00_Current "Run missed backups"
 		}
-		Saturdays "Saturdays"
+		Saturdays "Sábados"
 		{
 			// fcb84a8d
 			:00_Current "Saturdays"
 		}
-		ScheduledTask "Scheduled task"
+		ScheduledTask "Tarefa agendada"
 		{
 			// 2f74a371
 			:00_Current "Scheduled task"
@@ -7116,12 +7116,12 @@ namespace NServerAdmin
 			// 0 text - Database state
 			:00_Current "State: {0}"
 		}
-		Sundays "Sundays"
+		Sundays "Domingos"
 		{
 			// 26e6a7d4
 			:00_Current "Sundays"
 		}
-		Task "task"
+		Task "Tarefa"
 		{
 			// 2f5fac80
 			:00_Current "task"
@@ -7211,12 +7211,12 @@ namespace NServerAdmin
 			// 60e1bff8
 			:00_Current "Unlimited"
 		}
-		Value "Value"
+		Value "Valor"
 		{
 			// 1b79516a
 			:00_Current "Value"
 		}
-		Wednesdays "Wednesdays"
+		Wednesdays "Quarta-feiras"
 		{
 			// 79a64d04
 			:00_Current "Wednesdays"
@@ -7452,7 +7452,7 @@ namespace NShares
 		// e69e1dbe
 		:00_Current "Not shared"
 	}
-	NotificationsTo "Notifications to"
+	NotificationsTo "Notificações para"
 	{
 		// f29482b3
 		:00_Current "Notifications to"
@@ -7488,7 +7488,7 @@ namespace NShares
 		// 0 text - Last connection date
 		:00_Current "Remote site connected to you only. Last connection to remote site: {0}"
 	}
-	Remove "Remove"
+	Remove "Remover"
 	{
 		// ae9a7e04
 		:00_Current "Remove"
@@ -7694,7 +7694,7 @@ namespace NUpgradeLicense
 		// 7fe41663
 		:00_Current "Upgrade/change server licence"
 	}
-	UpgradeLicense "Upgrade licence"
+	UpgradeLicense "Atualizar licença"
 	{
 		// 70f68166
 		:00_Current "Upgrade licence"
@@ -7838,7 +7838,7 @@ namespace NUsers
 		            "\n"\
 		            "This action cannot be undone."
 	}
-	ChangeAvatar "Change Avatar..."
+	ChangeAvatar "Trocar avatar..."
 	{
 		// 3a052ea7
 		:00_Current "Change Avatar..."
@@ -7937,7 +7937,7 @@ namespace NUsers
 		// 3f1a0d4a
 		:00_Current "Delete prior to (YYYY-MM-DD)"
 	}
-	DeleteResources "Delete users"
+	DeleteResources "Apagar usuários"
 	{
 		// a47b8bd0
 		:00_Current "Delete users"
@@ -8545,12 +8545,12 @@ namespace NVersionControl
 		// 0 integer - Number of files
 		:00_Current "Found {0} [NHelpers::Pluralize($0,'file')].."
 	}
-	GoBack "Go Back"
+	GoBack "Voltar"
 	{
 		// a355475e
 		:00_Current "Go Back"
 	}
-	GoForward "Go Forward"
+	GoForward "Avançar"
 	{
 		// dc004e42
 		:00_Current "Go Forward"
@@ -8642,7 +8642,7 @@ namespace NVersionControl
 		// b81154b0
 		:00_Current "Location: "
 	}
-	More "More.."
+	More "Mais.."
 	{
 		// 47643eaa
 		:00_Current "More.."
@@ -8692,7 +8692,7 @@ namespace NVersionControl
 		// 7bb2a1e3
 		:00_Current "My personal document options"
 	}
-	Organize "Organise"
+	Organize "Organizar"
 	{
 		// 6d16e336
 		:00_Current "Organise"
@@ -8747,7 +8747,7 @@ namespace NVersionControl
 		// 4766fc3b
 		:00_Current "Root"
 	}
-	ShowDeletedFiles "Show deleted files"
+	ShowDeletedFiles "Mostrar arquivos apagados"
 	{
 		// 8eccfb82
 		:00_Current "Show deleted files"
@@ -9397,7 +9397,7 @@ namespace NVersionControl
 			// a693852a
 			:00_Current "Ok"
 		}
-		Options "Options"
+		Options "Opções"
 		{
 			// 6e9faf9c
 			:00_Current "Options"
@@ -9868,7 +9868,7 @@ namespace NVersionControl
 			// c07f9f2f
 			:00_Current "Folder Details"
 		}
-		GlobalDocuments "Global documents"
+		GlobalDocuments "Documentos globais"
 		{
 			// 7bcf07d0
 			:00_Current "Global documents"
@@ -9883,7 +9883,7 @@ namespace NVersionControl
 			// 624347c8
 			:00_Current "Go up"
 		}
-		LastModified "Last modified:"
+		LastModified "Última modificação:"
 		{
 			// cfe744e2
 			:00_Current "Last modified:"
@@ -9893,7 +9893,7 @@ namespace NVersionControl
 			// 9bd546c6
 			:00_Current "Location"
 		}
-		Places "Places"
+		Places "Locais"
 		{
 			// 1502e8a5
 			:00_Current "Places"
@@ -10005,7 +10005,7 @@ namespace NVersionControl
 			// f4acf63a
 			:00_Current "Ok"
 		}
-		Options "Documents"
+		Options "Documentos"
 		{
 			// 309a4aac
 			:00_Current "Documents"
@@ -10211,7 +10211,7 @@ namespace NVersionControl
 			// 36bfe298
 			:00_Current "Remarks:"
 		}
-		Succeeded "Succeeded:"
+		Succeeded "foi bem sucedido:"
 		{
 			// 20d1de28
 			:00_Current "Succeeded:"
@@ -10458,7 +10458,7 @@ namespace NCustomize
 			// fab0bff0
 			:00_Current "Activity types:"
 		}
-		RenameRow "Rename"
+		RenameRow "Renomear"
 		{
 			// 97c00ffb
 			:00_Current "Rename"
@@ -10698,7 +10698,7 @@ namespace NCustomize
 				// 70e237ad
 				:00_Current "Ok"
 			}
-			Saturday "Saturday"
+			Saturday "Sábado"
 			{
 				// a0e74ee0
 				:00_Current "Saturday"
@@ -10708,7 +10708,7 @@ namespace NCustomize
 				// eb4f96c1
 				:00_Current "Should be reported to this row:"
 			}
-			Sunday "Sunday"
+			Sunday "Domingo"
 			{
 				// 0ba7e5c7
 				:00_Current "Sunday"
@@ -11414,7 +11414,7 @@ namespace NGitIntegration
 			// 8cae3358
 			:00_Current "Linked Git Commits"
 		}
-		Options "Options"
+		Options "Opções"
 		{
 			// 4381976d
 			:00_Current "Options"
@@ -11673,7 +11673,7 @@ namespace NPerforceIntegration
 			// 221dc738
 			:00_Current "Make specific columns replicate read only"
 		}
-		Options "Options"
+		Options "Opções"
 		{
 			// d2baa47f
 			:00_Current "Options"
@@ -13757,7 +13757,7 @@ namespace NJiraIntegration
 			// 2 integer - Mapping index 2
 			:00_Current "No JIRA drop down index found for column {0}: {1}, {2}"
 		}
-		NoName "(No name)"
+		NoName "(Nenhum nome)"
 		{
 			// 1072596d
 			:00_Current "(No name)"
@@ -14328,7 +14328,7 @@ namespace NMiscDialogs
 		// 0cc792cc
 		:00_Current "Member of groups"
 	}
-	Password "Password"
+	Password "Senha"
 	{
 		// 377be392
 		:00_Current "Password"
@@ -14423,7 +14423,7 @@ namespace NMiscDialogs
 		// e82936c0
 		:00_Current "Used when logging in, for example '4apbrk9'"
 	}
-	UserName "Name"
+	UserName "Nome"
 	{
 		// 1d8c487f
 		:00_Current "Name"
@@ -14510,7 +14510,7 @@ namespace NPMCContext
 			// 597dacca
 			:00_Current "Comment"
 		}
-		DocumentsSettings "Documents"
+		DocumentsSettings "Documentos"
 		{
 			// 65067709
 			:00_Current "Documents"
@@ -14550,7 +14550,7 @@ namespace NPMCContext
 			// a9a9b7f4
 			:00_Current "My timesheet"
 		}
-		ScheduledTask "Scheduled task"
+		ScheduledTask "Tarefa agendada"
 		{
 			// 4726218a
 			:00_Current "Scheduled task"
@@ -14561,7 +14561,7 @@ namespace NPMCContext
 			// 0 text - Name of selected item
 			:00_Current "{0,cc}"
 		}
-		SubProject "Sub project"
+		SubProject "Sub projeto"
 		{
 			// 7161e387
 			:00_Current "Sub project"
@@ -14660,7 +14660,7 @@ namespace NCommentEditor
 		// 4ac50704
 		:00_Current "Show all"
 	}
-	ShowAllComments "Show all comments"
+	ShowAllComments "Mostrar todos os comentários"
 	{
 		// b4b8daaa
 		:00_Current "Show all comments"
@@ -15161,7 +15161,7 @@ namespace NDashboards
 		// e340a1ae
 		:00_Current "History settings"
 	}
-	IdealDays "Estimated days"
+	IdealDays "Dias estimados"
 	{
 		// e5d8fb1b
 		:00_Current "Estimated days"
@@ -15214,7 +15214,7 @@ namespace NDashboards
 		// 31ec475d
 		:00_Current "Planning"
 	}
-	Points "Points"
+	Points "Pontos"
 	{
 		// e88bc928
 		:00_Current "Points"
@@ -15248,12 +15248,12 @@ namespace NDashboards
 		// 0 number - Number of quarters
 		:00_Current " [NHelpers::Pluralize($0,'quarter')]"
 	}
-	Remove "Remove"
+	Remove "Remover"
 	{
 		// ec835b59
 		:00_Current "Remove"
 	}
-	Rename "Rename"
+	Rename "Renomear"
 	{
 		// ec83ab03
 		:00_Current "Rename"
@@ -15263,7 +15263,7 @@ namespace NDashboards
 		// d6f0a17f
 		:00_Current "Rename report"
 	}
-	Reports "Reports"
+	Reports "Relatórios"
 	{
 		// 7d25015a
 		:00_Current "Reports"

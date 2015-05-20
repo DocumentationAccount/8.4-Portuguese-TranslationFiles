@@ -107,7 +107,7 @@ namespace NTaggedTextEdit
 		// 0 text - Image file extensions
 		:00_Current "Image files {0}"
 	}
-	InsertImage "Insert Image"
+	InsertImage "Inserir imagem"
 	{
 		// 9b84cfc1
 		:00_Current "Insert Image"
@@ -189,7 +189,7 @@ namespace NTaggedTextEdit
 			// fddf23f5
 			:00_Current "Magenta"
 		}
-		Orange "Orange"
+		Orange "Laranja"
 		{
 			// 43d9cdf4
 			:00_Current "Orange"
@@ -199,7 +199,7 @@ namespace NTaggedTextEdit
 			// b85d760a
 			:00_Current "Pink"
 		}
-		Red "Red"
+		Red "Vermelho"
 		{
 			// 43a5c5b3
 			:00_Current "Red"
@@ -209,7 +209,7 @@ namespace NTaggedTextEdit
 			// c48a42b9
 			:00_Current "White"
 		}
-		Yellow "Yellow"
+		Yellow "Amarelo"
 		{
 			// 5a482674
 			:00_Current "Yellow"
